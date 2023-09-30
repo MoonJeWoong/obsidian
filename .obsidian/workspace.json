@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c149f1dbbc495cf",
+        "id": "e27bd8ed8e75c7d2",
         "type": "tabs",
         "children": [
           {
-            "id": "39c9771b64ee4591",
+            "id": "390ce14162b371c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "우테코/DB Connection Pool.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "우테코/DB Connection Pool.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "우테코/DB Connection Pool.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "우테코/DB Connection Pool.md"
+                "file": "README.md"
               }
             }
           },
@@ -163,16 +163,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39c9771b64ee4591",
+  "active": "390ce14162b371c8",
   "lastOpenFiles": [
+    "img/Pasted image 20230927181854.png",
+    "2023-09-30.md",
+    "우테코/DB Connection Pool.md",
     "우테코/5차 데모데이 발표방향.md",
     "README.md",
-    "Pasted image 20230927181854.png",
     "테스트/Mockito.md",
     "테스트",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "코딩테스트",
-    "우테코/DB Connection Pool.md",
     "우테코",
     "TIL/23.09.18 기록.md",
     "TIL/23.09.17 기록.md",
