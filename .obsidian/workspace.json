@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "TIL/2023-09-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TIL/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "TIL/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TIL/2023-09-19.md"
               }
             }
           },
@@ -159,18 +159,20 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "390ce14162b371c8",
   "lastOpenFiles": [
+    "TIL/2023-09-20.md",
+    "TIL/2023-09-19.md",
+    "테스트/Mockito.md",
+    "TIL/2023-09-30.md",
+    "README.md",
     "img/Pasted image 20230927181854.png",
     "2023-09-30.md",
     "우테코/DB Connection Pool.md",
     "우테코/5차 데모데이 발표방향.md",
-    "README.md",
-    "테스트/Mockito.md",
     "테스트",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "코딩테스트",
@@ -178,9 +180,7 @@
     "TIL/23.09.18 기록.md",
     "TIL/23.09.17 기록.md",
     "TIL/2023-09-24.md",
-    "TIL/2023-09-20.md",
     "TIL/2023-09-26.md",
-    "TIL/2023-09-19.md",
     "TIL",
     "img/Pasted image 20230919113741.png",
     "img/thread100connectionpoolPending.png",
