@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "89e83732c410234f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c149f1dbbc495cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39c9771b64ee4591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "우테코/DB Connection Pool.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ea26ff60c5ef5a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "815e96bdd2a85df9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0df98810d39bf6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c02cecc97feaea5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ff5a49e824a74fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a3328d7c3262f604",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bb8dadc318aabc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cdea7a1be8705aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "우테코/DB Connection Pool.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9859c730c44da29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "우테코/DB Connection Pool.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "159fff03cb911162",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c53617e5769cab7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "우테코/DB Connection Pool.md"
+              }
+            }
+          },
+          {
+            "id": "cd5bb94d6b4932ac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "764dab644a105981",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "39c9771b64ee4591",
+  "lastOpenFiles": [
+    "우테코/5차 데모데이 발표방향.md",
+    "README.md",
+    "Pasted image 20230927181854.png",
+    "테스트/Mockito.md",
+    "테스트",
+    "코딩테스트/코딩테스트 대비 코드 노트.md",
+    "코딩테스트",
+    "우테코/DB Connection Pool.md",
+    "우테코",
+    "TIL/23.09.18 기록.md",
+    "TIL/23.09.17 기록.md",
+    "TIL/2023-09-24.md",
+    "TIL/2023-09-20.md",
+    "TIL/2023-09-26.md",
+    "TIL/2023-09-19.md",
+    "TIL",
+    "img/Pasted image 20230919113741.png",
+    "img/thread100connectionpoolPending.png",
+    "img/thread100connectionpoolPending 1.png",
+    "img/Pasted image 20230919111956.png",
+    "img/Pasted image 20230919113430.png",
+    "img/Pasted image 20230919112256.png",
+    "img/Pasted image 20230919111538.png",
+    "img/Pasted image 20230918205349.png",
+    "img/Pasted image 20230919104210.png",
+    "img",
+    "0. Inbox/2023-09-27.md",
+    "0. Inbox",
+    "0. Inbox/2023-09-30.md",
+    "무제 파일.canvas",
+    "0. Inbox/23.09.19 기록.md",
+    "0. Inbox/testDocs1 인덱스.md"
+  ]
+}
