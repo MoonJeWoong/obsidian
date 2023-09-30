@@ -1,4 +1,6 @@
 [
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-table-generator",
+  "table-editor-obsidian"
 ]
