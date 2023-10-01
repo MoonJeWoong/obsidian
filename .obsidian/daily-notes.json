@@ -1,4 +1,5 @@
 {
   "folder": "TIL",
-  "autorun": true
+  "autorun": true,
+  "template": "Templates/TIL Template"
 }

@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e27bd8ed8e75c7d2",
+        "id": "34cfb0cad4f8b0b4",
         "type": "tabs",
         "children": [
           {
-            "id": "390ce14162b371c8",
+            "id": "103ee9d8133e45de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-09-30.md",
+                "file": "TIL/2023-10-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "235dc4f5144dd938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/2023-09-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.5
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-09-30.md",
+                "file": "TIL/2023-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +114,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-09-30.md",
+                "file": "TIL/2023-10-01.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-09-30.md"
+                "file": "TIL/2023-10-01.md"
               }
             }
           },
@@ -154,34 +166,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "390ce14162b371c8",
+  "active": "103ee9d8133e45de",
   "lastOpenFiles": [
-    "2023-09-30.md",
-    "TIL/2023-09-30.md",
-    "TIL/2023-09-20.md",
-    "TIL/2023-09-19.md",
-    "테스트/Mockito.md",
+    "0. Inbox/Pasted image 20231001022953.png.md",
+    "Development/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
+    "Pasted image 20231001022953.png",
+    "Templates/Posting Template.md",
+    "TIL/2023-10-01.md",
+    "TIL/2023-09-27.md",
+    "Templates/TIL Template.md",
+    "Java/무제 파일.md",
+    "Test/Mockito.md",
+    "Keyword Kanban.md",
+    "DB/index.md",
+    "Development",
+    "Spring",
+    "JPA",
+    "Java",
     "README.md",
-    "img/Pasted image 20230927181854.png",
-    "우테코/DB Connection Pool.md",
-    "우테코/5차 데모데이 발표방향.md",
-    "테스트",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
+    "0. Inbox/index.md",
+    "DB",
+    "TIL/2023-09-30.md",
+    "우테코/DB Connection Pool.md",
+    "Templates",
+    "img/Pasted image 20230927181854.png",
+    "TIL/2023-09-26.md",
+    "TIL/2023-09-19.md",
+    "TIL/2023-09-20.md",
+    "2023-09-30.md",
+    "우테코/5차 데모데이 발표방향.md",
+    "Test",
     "코딩테스트",
     "우테코",
     "TIL/23.09.18 기록.md",
     "TIL/23.09.17 기록.md",
     "TIL/2023-09-24.md",
-    "TIL/2023-09-26.md",
     "TIL",
     "img/Pasted image 20230919113741.png",
     "img/thread100connectionpoolPending.png",
@@ -191,10 +220,6 @@
     "img/Pasted image 20230919112256.png",
     "img/Pasted image 20230919111538.png",
     "img/Pasted image 20230918205349.png",
-    "img/Pasted image 20230919104210.png",
-    "img",
-    "0. Inbox/2023-09-27.md",
-    "0. Inbox",
     "0. Inbox/2023-09-30.md",
     "무제 파일.canvas",
     "0. Inbox/23.09.19 기록.md",
