@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "103ee9d8133e45de",
+            "id": "d0212be2566cfff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-10-02.md",
+                "file": "TIL/2023/2023-10-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-10-02.md",
+                "file": "TIL/2023/2023-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-10-02.md",
+                "file": "TIL/2023/2023-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-10-02.md"
+                "file": "TIL/2023/2023-10-01.md"
               }
             }
           },
@@ -151,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,23 +163,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "103ee9d8133e45de",
+  "active": "a0df98810d39bf6d",
   "lastOpenFiles": [
-    "TIL/2023-10-01.md",
-    "TIL/2023-10-02.md",
-    "Pasted image 20231001120128.png",
-    "Pasted image 20231001111510.png",
+    "TIL/2023/2023-10-02.md",
+    "img/Pasted image 20231001120128.png",
+    "img/Pasted image 20231001111510.png",
+    "img/하루스터디 프로덕션 인프라 구성도(scale out 이후).drawio.png",
+    "TIL/2023/2023-10-01.md",
+    "TIL/2023/23.09.17 기록.md",
+    "Keyword Kanban.md",
+    "TIL/2023",
+    "img/하루스터디 프로덕션 인프라 구성도(scale out 이전).png",
+    "Test/Mockito.md",
     "Development/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
-    "하루스터디 프로덕션 인프라 구성도(scale out 이후).drawio.png",
-    "하루스터디 프로덕션 인프라 구성도(scale out 이전).png",
-    "TIL/2023-09-27.md",
+    "TIL/2023/2023-09-27.md",
     "0. Inbox/Pasted image 20231001022953.png.md",
     "Pasted image 20231001022953.png",
     "Templates/Posting Template.md",
     "Templates/TIL Template.md",
     "Java/무제 파일.md",
-    "Test/Mockito.md",
-    "Keyword Kanban.md",
     "DB/index.md",
     "Development",
     "Spring",
@@ -191,28 +191,25 @@
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "0. Inbox/index.md",
     "DB",
-    "TIL/2023-09-30.md",
+    "TIL/2023/2023-09-30.md",
     "우테코/DB Connection Pool.md",
     "Templates",
     "img/Pasted image 20230927181854.png",
-    "TIL/2023-09-26.md",
-    "TIL/2023-09-19.md",
-    "TIL/2023-09-20.md",
+    "TIL/2023/2023-09-26.md",
+    "TIL/2023/2023-09-19.md",
+    "TIL/2023/2023-09-20.md",
     "2023-09-30.md",
     "우테코/5차 데모데이 발표방향.md",
     "Test",
     "코딩테스트",
     "우테코",
-    "TIL/23.09.18 기록.md",
-    "TIL/23.09.17 기록.md",
-    "TIL/2023-09-24.md",
-    "TIL",
+    "TIL/2023/23.09.18 기록.md",
+    "TIL/2023/2023-09-24.md",
     "img/Pasted image 20230919113741.png",
     "img/thread100connectionpoolPending.png",
     "img/thread100connectionpoolPending 1.png",
     "img/Pasted image 20230919111956.png",
     "0. Inbox/2023-09-30.md",
-    "무제 파일.canvas",
-    "0. Inbox/23.09.19 기록.md"
+    "무제 파일.canvas"
   ]
 }

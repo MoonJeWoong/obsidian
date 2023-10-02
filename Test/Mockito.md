@@ -53,6 +53,19 @@ willThrow(UnsupportedOperationException.class)
 ```
 
 
+- given().willREturn()을 원하는 만큼 체이닝해서 적용하면 원하는 횟수만큼 값을 반환하도록 할 수 있다.
+``` java
+given(resultSetMock.next())
+    .willReturn(true)
+    .willReturn(true)
+    .willReturn(false);
+given(rowMapperMock.mapRow(eq(resultSetMock), anyInt()))
+    .willReturn(new TestUser(1L, "hiiro", "hiiro", "hiiro"))
+    .willReturn(new TestUser(2L, "ako", "ako", "ako"));
+```
+
+---
+
 
 # 인자매칭 처리
 
