@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-03.md",
+                "file": "TIL/2023/2023-10-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-03.md",
+                "file": "TIL/2023/2023-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-03.md",
+                "file": "TIL/2023/2023-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-03.md"
+                "file": "TIL/2023/2023-10-04.md"
               }
             }
           },
@@ -180,9 +180,10 @@
   },
   "active": "1e68446434382d06",
   "lastOpenFiles": [
+    "TIL/2023/2023-10-03.md",
+    "TIL/2023/2023-10-04.md",
     "TIL/2023/2023-10-02.md",
     "TIL/2023/2023-10-01.md",
-    "TIL/2023/2023-10-03.md",
     "img/Pasted image 20231001120128.png",
     "img/Pasted image 20231001111510.png",
     "img/하루스터디 프로덕션 인프라 구성도(scale out 이후).drawio.png",
@@ -225,7 +226,6 @@
     "img/thread100connectionpoolPending.png",
     "img/thread100connectionpoolPending 1.png",
     "img/Pasted image 20230919111956.png",
-    "0. Inbox/2023-09-30.md",
     "무제 파일.canvas"
   ]
 }
