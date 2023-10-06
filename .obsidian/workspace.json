@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-05.md",
+                "file": "TIL/2023/2023-10-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-05.md",
+                "file": "TIL/2023/2023-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-05.md",
+                "file": "TIL/2023/2023-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-05.md"
+                "file": "TIL/2023/2023-10-06.md"
               }
             }
           },
@@ -166,8 +167,9 @@
   },
   "active": "1e68446434382d06",
   "lastOpenFiles": [
-    "TIL/2023/2023-10-04.md",
     "TIL/2023/2023-10-05.md",
+    "TIL/2023/2023-10-06.md",
+    "TIL/2023/2023-10-04.md",
     "TIL/2023/2023-10-02.md",
     "TIL/2023/2023-10-03.md",
     "TIL/2023/2023-10-01.md",
@@ -207,7 +209,6 @@
     "Test",
     "코딩테스트",
     "우테코",
-    "TIL/2023/23.09.18 기록.md",
     "img/Pasted image 20230919113741.png",
     "img/thread100connectionpoolPending.png",
     "img/thread100connectionpoolPending 1.png",
