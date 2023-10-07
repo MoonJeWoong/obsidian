@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-06.md",
+                "file": "TIL/2023/2023-10-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-06.md",
+                "file": "TIL/2023/2023-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-06.md",
+                "file": "TIL/2023/2023-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-06.md"
+                "file": "TIL/2023/2023-10-07.md"
               }
             }
           },
@@ -167,8 +166,11 @@
   },
   "active": "1e68446434382d06",
   "lastOpenFiles": [
-    "TIL/2023/2023-10-05.md",
+    "TIL/2023/2023-10-07.md",
     "TIL/2023/2023-10-06.md",
+    "CS/Network",
+    "CS",
+    "TIL/2023/2023-10-05.md",
     "TIL/2023/2023-10-04.md",
     "TIL/2023/2023-10-02.md",
     "TIL/2023/2023-10-03.md",
@@ -188,7 +190,7 @@
     "Templates/Posting Template.md",
     "Templates/TIL Template.md",
     "Java/무제 파일.md",
-    "DB/index.md",
+    "CS/DB/index.md",
     "Development",
     "Spring",
     "JPA",
@@ -196,7 +198,7 @@
     "README.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "0. Inbox/index.md",
-    "DB",
+    "CS/DB",
     "TIL/2023/2023-09-30.md",
     "우테코/DB Connection Pool.md",
     "Templates",
@@ -205,10 +207,7 @@
     "TIL/2023/2023-09-19.md",
     "TIL/2023/2023-09-20.md",
     "2023-09-30.md",
-    "우테코/5차 데모데이 발표방향.md",
     "Test",
-    "코딩테스트",
-    "우테코",
     "img/Pasted image 20230919113741.png",
     "img/thread100connectionpoolPending.png",
     "img/thread100connectionpoolPending 1.png",
