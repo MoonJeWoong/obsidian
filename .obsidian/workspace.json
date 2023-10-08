@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-08.md",
+                "file": "TIL/2023/2023-10-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-08.md",
+                "file": "TIL/2023/2023-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-08.md",
+                "file": "TIL/2023/2023-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-08.md"
+                "file": "TIL/2023/2023-10-09.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   "active": "1e68446434382d06",
   "lastOpenFiles": [
     "TIL/2023/2023-10-08.md",
-    "TIL/2023/2023-10-07.md",
+    "TIL/2023/2023-10-09.md",
     "우테코/DB Connection Pool.md",
+    "TIL/2023/2023-10-07.md",
     "README.md",
     "TIL/2023/2023-10-06.md",
     "CS/Network",
@@ -206,7 +207,6 @@
     "img/Pasted image 20230927181854.png",
     "TIL/2023/2023-09-26.md",
     "TIL/2023/2023-09-19.md",
-    "TIL/2023/2023-09-20.md",
     "Test",
     "img/Pasted image 20230919113741.png",
     "img/thread100connectionpoolPending.png",
