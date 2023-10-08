@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-07.md",
+                "file": "TIL/2023/2023-10-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-07.md",
+                "file": "TIL/2023/2023-10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-07.md",
+                "file": "TIL/2023/2023-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-07.md"
+                "file": "TIL/2023/2023-10-08.md"
               }
             }
           },
@@ -166,7 +166,10 @@
   },
   "active": "1e68446434382d06",
   "lastOpenFiles": [
+    "TIL/2023/2023-10-08.md",
     "TIL/2023/2023-10-07.md",
+    "우테코/DB Connection Pool.md",
+    "README.md",
     "TIL/2023/2023-10-06.md",
     "CS/Network",
     "CS",
@@ -195,18 +198,15 @@
     "Spring",
     "JPA",
     "Java",
-    "README.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "0. Inbox/index.md",
     "CS/DB",
     "TIL/2023/2023-09-30.md",
-    "우테코/DB Connection Pool.md",
     "Templates",
     "img/Pasted image 20230927181854.png",
     "TIL/2023/2023-09-26.md",
     "TIL/2023/2023-09-19.md",
     "TIL/2023/2023-09-20.md",
-    "2023-09-30.md",
     "Test",
     "img/Pasted image 20230919113741.png",
     "img/thread100connectionpoolPending.png",
