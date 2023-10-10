@@ -3,5 +3,7 @@
   "obsidian-git",
   "obsidian-table-generator",
   "table-editor-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "cm-editor-syntax-highlight-obsidian",
+  "highlightr-plugin"
 ]
