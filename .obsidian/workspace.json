@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/상위 1% 네트워크 1장 정리.md",
+                "file": "TIL/2023/2023-10-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/상위 1% 네트워크 1장 정리.md",
+                "file": "TIL/2023/2023-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/상위 1% 네트워크 1장 정리.md",
+                "file": "TIL/2023/2023-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/상위 1% 네트워크 1장 정리.md"
+                "file": "TIL/2023/2023-10-12.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "8aaf2b739dd8c24f",
   "lastOpenFiles": [
-    "TIL/2023/2023-10-10.md",
     "0. Inbox/상위 1% 네트워크 1장 정리.md",
+    "TIL/2023/2023-10-12.md",
+    "TIL/2023/2023-10-10.md",
     "TIL/2023/2023-10-11.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "CS/DB/ACID.md",
@@ -213,7 +214,6 @@
     "img/Pasted image 20231001022953.png.md",
     "Pasted image 20231001022953.png",
     "Templates/Posting Template.md",
-    "Templates/TIL Template.md",
     "Development",
     "Spring",
     "JPA",
