@@ -12,7 +12,7 @@ kanban-plugin: basic
 ## DB
 
 **Complete**
-- [ ] [[index]]
+- [ ] [[트랜잭션]]
 
 ***
 

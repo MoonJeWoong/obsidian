@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fc0cd7f9d44595ff",
+        "id": "e496cc2d75e30bae",
         "type": "tabs",
         "children": [
           {
-            "id": "1e68446434382d06",
+            "id": "4e8244bba9236348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트/코딩테스트 대비 코드 노트.md",
+                "file": "TIL/2023/2023-10-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a5fe4b538b8bed6",
+            "id": "8aaf2b739dd8c24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-10.md",
+                "file": "0. Inbox/상위 1% 네트워크 1장 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-10.md",
+                "file": "0. Inbox/상위 1% 네트워크 1장 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-10.md",
+                "file": "0. Inbox/상위 1% 네트워크 1장 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-10.md"
+                "file": "0. Inbox/상위 1% 네트워크 1장 정리.md"
               }
             }
           },
@@ -177,14 +177,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a5fe4b538b8bed6",
+  "active": "8aaf2b739dd8c24f",
   "lastOpenFiles": [
-    "TIL/2023/2023-10-11.md",
-    "TIL/2023/2023-10-08.md",
     "TIL/2023/2023-10-10.md",
+    "0. Inbox/상위 1% 네트워크 1장 정리.md",
+    "TIL/2023/2023-10-11.md",
+    "코딩테스트/코딩테스트 대비 코드 노트.md",
+    "CS/DB/ACID.md",
+    "Test/Mockito.md",
+    "CS/DB/트랜잭션.md",
     "TIL/2023/2023-10-09.md",
     "코딩테스트/코테 오답노트.md",
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
+    "Keyword Kanban.md",
+    "TIL/2023/2023-10-08.md",
     "무제 폴더",
     "TIL/2023/2023-10-02.md",
     "TIL/2023/2023-10-03.md",
@@ -201,23 +206,18 @@
     "img/Pasted image 20231001111510.png",
     "img/하루스터디 프로덕션 인프라 구성도(scale out 이후).drawio.png",
     "TIL/2023/23.09.17 기록.md",
-    "Keyword Kanban.md",
     "TIL/2023",
     "img/하루스터디 프로덕션 인프라 구성도(scale out 이전).png",
-    "Test/Mockito.md",
     "Development/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
     "TIL/2023/2023-09-27.md",
     "img/Pasted image 20231001022953.png.md",
     "Pasted image 20231001022953.png",
     "Templates/Posting Template.md",
     "Templates/TIL Template.md",
-    "Java/무제 파일.md",
-    "CS/DB/index.md",
     "Development",
     "Spring",
     "JPA",
     "Java",
-    "0. Inbox/index.md",
     "CS/DB",
     "Templates",
     "img/Pasted image 20230927181854.png",
