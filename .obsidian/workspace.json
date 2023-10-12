@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "408d5b0a684c4280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/2023/2023-10-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -177,12 +190,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8aaf2b739dd8c24f",
+  "active": "408d5b0a684c4280",
   "lastOpenFiles": [
-    "0. Inbox/상위 1% 네트워크 1장 정리.md",
     "TIL/2023/2023-10-12.md",
-    "TIL/2023/2023-10-10.md",
+    "0. Inbox/Monitor & Intrinsic lock.md",
     "TIL/2023/2023-10-11.md",
+    "TIL/2023/2023-10-10.md",
+    "0. Inbox/상위 1% 네트워크 1장 정리.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "CS/DB/ACID.md",
     "Test/Mockito.md",
@@ -213,7 +227,6 @@
     "TIL/2023/2023-09-27.md",
     "img/Pasted image 20231001022953.png.md",
     "Pasted image 20231001022953.png",
-    "Templates/Posting Template.md",
     "Development",
     "Spring",
     "JPA",

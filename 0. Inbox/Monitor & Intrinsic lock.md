@@ -1,0 +1,1 @@
+http://happinessoncode.com/2017/10/04/java-intrinsic-lock/
