@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-12.md",
+                "file": "TIL/2023/2023-10-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-12.md",
+                "file": "TIL/2023/2023-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-12.md",
+                "file": "TIL/2023/2023-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-12.md"
+                "file": "TIL/2023/2023-10-13.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   "active": "408d5b0a684c4280",
   "lastOpenFiles": [
     "TIL/2023/2023-10-12.md",
+    "TIL/2023/2023-10-13.md",
     "0. Inbox/Monitor & Intrinsic lock.md",
     "TIL/2023/2023-10-11.md",
     "TIL/2023/2023-10-10.md",
@@ -225,7 +226,6 @@
     "img/하루스터디 프로덕션 인프라 구성도(scale out 이전).png",
     "Development/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
     "TIL/2023/2023-09-27.md",
-    "img/Pasted image 20231001022953.png.md",
     "Pasted image 20231001022953.png",
     "Development",
     "Spring",
