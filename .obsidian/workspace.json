@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -192,18 +191,19 @@
   },
   "active": "408d5b0a684c4280",
   "lastOpenFiles": [
-    "TIL/2023/2023-10-12.md",
+    "Pasted image 20231013174204.png",
+    "코딩테스트/코딩테스트 대비 코드 노트.md",
+    "코딩테스트/코테 오답노트.md",
     "TIL/2023/2023-10-13.md",
+    "TIL/2023/2023-10-10.md",
+    "TIL/2023/2023-10-12.md",
     "0. Inbox/Monitor & Intrinsic lock.md",
     "TIL/2023/2023-10-11.md",
-    "TIL/2023/2023-10-10.md",
     "0. Inbox/상위 1% 네트워크 1장 정리.md",
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
     "CS/DB/ACID.md",
     "Test/Mockito.md",
     "CS/DB/트랜잭션.md",
     "TIL/2023/2023-10-09.md",
-    "코딩테스트/코테 오답노트.md",
     "Keyword Kanban.md",
     "TIL/2023/2023-10-08.md",
     "무제 폴더",
@@ -225,7 +225,6 @@
     "TIL/2023",
     "img/하루스터디 프로덕션 인프라 구성도(scale out 이전).png",
     "Development/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
-    "TIL/2023/2023-09-27.md",
     "Pasted image 20231001022953.png",
     "Development",
     "Spring",
