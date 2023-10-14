@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e496cc2d75e30bae",
+        "id": "948d2e59e4a5c466",
         "type": "tabs",
         "children": [
           {
-            "id": "4e8244bba9236348",
+            "id": "b43d9997a4b20cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-10.md",
+                "file": "OOP/OOP 질문 정리.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8aaf2b739dd8c24f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/2023/2023-10-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "408d5b0a684c4280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/2023/2023-10-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b74d8c44b69b21e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-14.md",
+                "file": "OOP/OOP 질문 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-14.md",
+                "file": "OOP/OOP 질문 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-14.md"
+                "file": "OOP/OOP 질문 정리.md"
               }
             }
           },
@@ -185,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,15 +163,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "408d5b0a684c4280",
+  "active": "b43d9997a4b20cce",
   "lastOpenFiles": [
     "TIL/2023/2023-10-14.md",
-    "TIL/2023/2023-10-13.md",
-    "Pasted image 20231013174204.png",
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
-    "코딩테스트/코테 오답노트.md",
+    "TIL/2023/2023-10-15.md",
+    "OOP/OOP 질문 정리.md",
     "TIL/2023/2023-10-10.md",
     "TIL/2023/2023-10-12.md",
+    "OOP",
+    "코딩테스트/코딩테스트 대비 코드 노트.md",
+    "코딩테스트/코테 오답노트.md",
+    "TIL/2023/2023-10-13.md",
+    "TIL/2023/2023-09-27.md",
+    "Pasted image 20231013174204.png",
     "0. Inbox/Monitor & Intrinsic lock.md",
     "TIL/2023/2023-10-11.md",
     "0. Inbox/상위 1% 네트워크 1장 정리.md",
@@ -217,7 +185,6 @@
     "TIL/2023/2023-10-09.md",
     "Keyword Kanban.md",
     "TIL/2023/2023-10-08.md",
-    "무제 폴더",
     "TIL/2023/2023-10-02.md",
     "TIL/2023/2023-10-03.md",
     "TIL/2023/2023-10-04.md",
@@ -228,14 +195,11 @@
     "README.md",
     "CS/Network",
     "CS",
-    "TIL/2023/2023-10-01.md",
     "img/Pasted image 20231001120128.png",
     "img/Pasted image 20231001111510.png",
     "img/하루스터디 프로덕션 인프라 구성도(scale out 이후).drawio.png",
-    "TIL/2023/23.09.17 기록.md",
     "TIL/2023",
     "img/하루스터디 프로덕션 인프라 구성도(scale out 이전).png",
-    "Development/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
     "Pasted image 20231001022953.png",
     "Development",
     "Spring",
