@@ -37,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-13.md",
+                "file": "TIL/2023/2023-10-14.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4b74d8c44b69b21e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           }
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-13.md",
+                "file": "TIL/2023/2023-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-13.md",
+                "file": "TIL/2023/2023-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-13.md"
+                "file": "TIL/2023/2023-10-14.md"
               }
             }
           },
@@ -191,10 +201,11 @@
   },
   "active": "408d5b0a684c4280",
   "lastOpenFiles": [
+    "TIL/2023/2023-10-14.md",
+    "TIL/2023/2023-10-13.md",
     "Pasted image 20231013174204.png",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "코딩테스트/코테 오답노트.md",
-    "TIL/2023/2023-10-13.md",
     "TIL/2023/2023-10-10.md",
     "TIL/2023/2023-10-12.md",
     "0. Inbox/Monitor & Intrinsic lock.md",
@@ -236,7 +247,6 @@
     "img/Pasted image 20230919113741.png",
     "img/thread100connectionpoolPending.png",
     "img/thread100connectionpoolPending 1.png",
-    "img/Pasted image 20230919111956.png",
     "무제 파일.canvas"
   ]
 }
