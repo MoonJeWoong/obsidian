@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/OOP 질문 정리.md",
+                "file": "TIL/2023/2023-10-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP/OOP 질문 정리.md",
+                "file": "TIL/2023/2023-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,10 +102,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP/OOP 질문 정리.md",
+                "file": "TIL/2023/2023-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "cd5bb94d6b4932ac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -125,16 +133,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP/OOP 질문 정리.md"
+                "file": "TIL/2023/2023-10-15.md"
               }
-            }
-          },
-          {
-            "id": "cd5bb94d6b4932ac",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,7 +175,7 @@
     "코딩테스트/코테 오답노트.md",
     "TIL/2023/2023-10-13.md",
     "TIL/2023/2023-09-27.md",
-    "Pasted image 20231013174204.png",
+    "img/Pasted image 20231013174204.png",
     "0. Inbox/Monitor & Intrinsic lock.md",
     "TIL/2023/2023-10-11.md",
     "0. Inbox/상위 1% 네트워크 1장 정리.md",
