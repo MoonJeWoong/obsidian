@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-16.md",
+                "file": "코딩테스트/코딩테스트 대비 코드 노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "우테코/스터디 동시 진행 기능 업데이트를 위한 무중단 배포 시나리오 정리.md",
+                "file": "TIL/2023/2023-10-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-16.md",
+                "file": "TIL/2023/2023-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-16.md",
+                "file": "TIL/2023/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-16.md"
+                "file": "TIL/2023/2023-10-17.md"
               }
             }
           },
@@ -187,15 +188,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b43d9997a4b20cce",
+  "active": "d5aaa3ed7ddfca8f",
   "lastOpenFiles": [
-    "TIL/2023/2023-10-17.md",
     "TIL/2023/2023-10-16.md",
     "OOP/OOP 질문 정리.md",
-    "Java/객체지향 프로그래밍.md",
+    "TIL/2023/2023-10-17.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "코딩테스트/코테 오답노트.md",
     "우테코/스터디 동시 진행 기능 업데이트를 위한 무중단 배포 시나리오 정리.md",
+    "Java/객체지향 프로그래밍.md",
     "TIL/2023/2023-10-15.md",
     "TIL/2023/2023-10-13.md",
     "TIL/2023/2023-10-14.md",
