@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-18.md",
+                "file": "TIL/2023/2023-10-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-18.md",
+                "file": "TIL/2023/2023-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-18.md",
+                "file": "TIL/2023/2023-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-18.md"
+                "file": "TIL/2023/2023-10-19.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "d5aaa3ed7ddfca8f",
   "lastOpenFiles": [
-    "OOP/OOP 질문 정리.md",
     "Java/객체지향 프로그래밍.md",
+    "TIL/2023/2023-10-19.md",
+    "OOP/OOP 질문 정리.md",
     "TIL/2023/2023-10-18.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "TIL/2023/2023-10-17.md",
@@ -217,7 +218,6 @@
     "TIL/2023/2023-10-08.md",
     "TIL/2023/2023-10-02.md",
     "TIL/2023/2023-10-03.md",
-    "TIL/2023/2023-10-04.md",
     "CS/Network",
     "CS",
     "img/Pasted image 20231001120128.png",
