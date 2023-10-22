@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-20.md",
+                "file": "TIL/2023/2023-10-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/객체지향 프로그래밍.md",
+                "file": "TIL/2023/2023-10-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/객체지향 프로그래밍.md",
+                "file": "TIL/2023/2023-10-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/객체지향 프로그래밍.md",
+                "file": "TIL/2023/2023-10-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/객체지향 프로그래밍.md"
+                "file": "TIL/2023/2023-10-22.md"
               }
             }
           },
@@ -176,12 +175,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b29db1f30802836",
+  "active": "b43d9997a4b20cce",
   "lastOpenFiles": [
-    "TIL/2023/2023-10-20.md",
-    "Java/객체지향 프로그래밍.md",
-    "TIL/2023/2023-10-19.md",
     "OOP/OOP 질문 정리.md",
+    "TIL/2023/2023-10-22.md",
+    "Java/객체지향 프로그래밍.md",
+    "TIL/2023/2023-10-20.md",
+    "TIL/2023/2023-10-21.md",
+    "TIL/2023/2023-10-19.md",
     "TIL/2023/2023-10-18.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "TIL/2023/2023-10-17.md",
@@ -204,8 +205,6 @@
     "Test/Mockito.md",
     "CS/DB/트랜잭션.md",
     "TIL/2023/2023-10-09.md",
-    "Keyword Kanban.md",
-    "TIL/2023/2023-10-08.md",
     "CS/Network",
     "CS",
     "img/Pasted image 20231001120128.png",
