@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-22.md",
+                "file": "TIL/2023/2023-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-22.md",
+                "file": "TIL/2023/2023-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-22.md",
+                "file": "TIL/2023/2023-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-22.md"
+                "file": "TIL/2023/2023-10-24.md"
               }
             }
           },
@@ -177,9 +177,11 @@
   },
   "active": "b43d9997a4b20cce",
   "lastOpenFiles": [
-    "OOP/OOP 질문 정리.md",
-    "TIL/2023/2023-10-22.md",
     "Java/객체지향 프로그래밍.md",
+    "TIL/2023/2023-10-24.md",
+    "TIL/2023/2023-10-23.md",
+    "TIL/2023/2023-10-22.md",
+    "OOP/OOP 질문 정리.md",
     "TIL/2023/2023-10-20.md",
     "TIL/2023/2023-10-21.md",
     "TIL/2023/2023-10-19.md",
@@ -203,8 +205,6 @@
     "0. Inbox/상위 1% 네트워크 1장 정리.md",
     "CS/DB/ACID.md",
     "Test/Mockito.md",
-    "CS/DB/트랜잭션.md",
-    "TIL/2023/2023-10-09.md",
     "CS/Network",
     "CS",
     "img/Pasted image 20231001120128.png",
