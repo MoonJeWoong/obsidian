@@ -13,6 +13,24 @@ ORDER BY AGE DESC, PT_NAME ASC;
 - order by를 사용할 때 먼저 정렬시키고픈 컬럼 순서대로 정의한다.
 
 
+### 평균 일일 대여 요금 구하기
+
+``` SQL
+SELECT ROUND(SUM(DAILY_FEE) / COUNT(CAR_ID), 0) AS AVERAGE_FEE
+FROM CAR_RENTAL_COMPANY_CAR
+WHERE CAR_TYPE = 'SUV';
+```
+
+- 숫자 사칙연산은 원래 사용하던 대로 +, -, \*,  /, % 연산들을 사용해주면 된다.
+- 소수점 반올림 
+	- ROUND(NUM, 0) => 소수점 첫째 자리에서 반올림해서 정수를 만들어줌
+	- ROUND(NUM, 0, 1) => 소수점 첫째 자리부터 절삭
+- 정수 올림 내림
+	- CELING(NUM) => 올림
+	- FLOOR(NUM) =>  내림
+
+
+
 # JOIN
 
 ## 조건에 맞는 도서와 저자 리스트 출력하기

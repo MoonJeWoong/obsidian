@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-24.md",
+                "file": "TIL/2023/2023-10-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,8 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0df98810d39bf6d",
+  "active": "fd2ff668e1fde0d5",
   "lastOpenFiles": [
+    "TIL/2023/2023-10-25.md",
     "TIL/2023/2023-10-24.md",
     "코딩테스트/프로그래머스 SQL 문제 정리.md",
     "TIL/2023/2023-10-21.md",
@@ -205,7 +206,6 @@
     "0. Inbox/Monitor & Intrinsic lock.md",
     "TIL/2023/2023-10-11.md",
     "0. Inbox/상위 1% 네트워크 1장 정리.md",
-    "CS/DB/ACID.md",
     "CS/Network",
     "CS",
     "img/Pasted image 20231001120128.png",
