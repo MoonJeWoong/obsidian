@@ -90,3 +90,30 @@ SELECT DATE_ADD(NOW(), INTERVAL 3 HOUR);
 SELECT DATE_SUB(NOW(), INTERVAL 5 DAY);
 SELECT DATE_SUB(NOW(), INTERVAL 3 HOUR)
 ```
+
+
+### 주문량이 많은 아이스크림들 조회하기
+
+UNION ALL을 사용한 해결 방식
+``` SQL
+SELECT FLAVOR
+FROM (SELECT * FROM FIRST_HALF
+	 UNION ALL
+	 SELECT * FROM JULY) AS HALFANDJULY
+ GROUP BY FLAVOR
+ ORDER BY SUM(TOTAL_PRICE)
+ LIMIT 3;
+```
+
+
+- 해당 문제가 JOIN으로 분류되어 있기는 하나 실제로는 UNION ALL로 풀어내야 하는 문제임
+- UNION을 사용하면 중복되는 ROW가 DISTINCT되는 로직이 수행되므로 UNION ALL을 사용해줘야 함
+- FROM 에서 서브쿼리를 사용하게 되면 별칭을 꼭 붙여줘야 문법 에러가 발생하지 않는다.
+- 상위 N 개를 제한해서 결과를 보여주려면 LIMIT 키워드를 사용하면 된다.
+
+
+
+
+
+
+
