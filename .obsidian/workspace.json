@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/하루스터디 무중단 배포 플로우 정리.md",
+                "file": "TIL/2023/2023-10-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/하루스터디 무중단 배포 플로우 정리.md",
+                "file": "TIL/2023/2023-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/하루스터디 무중단 배포 플로우 정리.md",
+                "file": "TIL/2023/2023-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/하루스터디 무중단 배포 플로우 정리.md"
+                "file": "TIL/2023/2023-10-26.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "088d0184d89c9d92",
   "lastOpenFiles": [
     "TIL/2023/2023-10-25.md",
+    "TIL/2023/2023-10-26.md",
     "0. Inbox/하루스터디 무중단 배포 플로우 정리.md",
     "OOP/객체지향 프로그래밍.md",
     "Java/Monitor & Intrinsic lock.md",
@@ -191,7 +192,6 @@
     "TIL/2023/2023-10-10.md",
     "TIL/2023/2023-10-12.md",
     "OOP",
-    "TIL/2023/2023-09-27.md",
     "img/Pasted image 20231013174204.png",
     "CS/Network",
     "CS",
