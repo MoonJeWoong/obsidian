@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-28.md",
+                "file": "TIL/2023/2023-10-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-28.md",
+                "file": "TIL/2023/2023-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-28.md",
+                "file": "TIL/2023/2023-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-28.md"
+                "file": "TIL/2023/2023-10-29.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "4e09b6a18a0a7930",
   "lastOpenFiles": [
-    "TIL/2023/2023-10-27.md",
     "TIL/2023/2023-10-28.md",
+    "TIL/2023/2023-10-29.md",
+    "TIL/2023/2023-10-27.md",
     "TIL/2023/2023-10-26.md",
     "TIL/2023/2023-10-01.md",
     "TIL/2023/2023-10-17.md",
@@ -215,7 +216,6 @@
     "TIL/2023/2023-10-16.md",
     "우테코/DB Connection Pool.md",
     "코딩테스트/코테 오답노트.md",
-    "TIL/2023/2023-10-15.md",
     "OOP",
     "img/Pasted image 20231013174204.png",
     "CS/Network",
