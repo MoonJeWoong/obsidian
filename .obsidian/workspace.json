@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트/프로그래머스 SQL 문제 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e09b6a18a0a7930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "TIL/2023/2023-10-30.md",
                 "mode": "source",
                 "source": false
@@ -32,19 +20,18 @@
             }
           },
           {
-            "id": "a66cbb47b828f8cb",
+            "id": "fb20b607011ea98e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/조영호님 우아한객체지향 영상 정리.md",
+                "file": "0. Inbox/AOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -175,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,14 +177,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e09b6a18a0a7930",
+  "active": "088d0184d89c9d92",
   "lastOpenFiles": [
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
+    "0. Inbox/AOP.md",
+    "Pasted image 20231030175914.png",
+    "Pasted image 20231030175548.png",
+    "Pasted image 20231030174044.png",
     "TIL/2023/2023-10-30.md",
+    "TIL/2023/2023-10-29.md",
     "코딩테스트/프로그래머스 SQL 문제 정리.md",
+    "코딩테스트/코딩테스트 대비 코드 노트.md",
     "0. Inbox/조영호님 우아한객체지향 영상 정리.md",
     "코딩테스트/코테 오답노트.md",
-    "TIL/2023/2023-10-29.md",
     "TIL/2023/2023-10-28.md",
     "TIL/2023/2023-10-27.md",
     "TIL/2023/2023-10-26.md",
@@ -214,8 +207,6 @@
     "TIL/2023/2023-10-22.md",
     "OOP/OOP 질문 정리.md",
     "TIL/2023/2023-10-20.md",
-    "TIL/2023/2023-10-18.md",
-    "TIL/2023/2023-10-16.md",
     "OOP",
     "img/Pasted image 20231013174204.png",
     "CS/Network",
@@ -233,9 +224,6 @@
     "CS/DB",
     "Templates",
     "img/Pasted image 20230927181854.png",
-    "img/Pasted image 20230919113741.png",
-    "img/thread100connectionpoolPending.png",
-    "img/thread100connectionpoolPending 1.png",
     "무제 파일.canvas"
   ]
 }
