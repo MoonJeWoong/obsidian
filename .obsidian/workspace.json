@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-10-30.md",
+                "file": "TIL/2023/2023-10-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-10-30.md",
+                "file": "TIL/2023/2023-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-10-30.md",
+                "file": "TIL/2023/2023-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-10-30.md"
+                "file": "TIL/2023/2023-10-31.md"
               }
             }
           },
@@ -163,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +177,14 @@
   },
   "active": "088d0184d89c9d92",
   "lastOpenFiles": [
+    "Templates/TIL Template.md",
+    "TIL/2023/2023-10-31.md",
+    "TIL/2023/2023-10-30.md",
     "0. Inbox/AOP.md",
+    "Templates/Posting Template.md",
     "Pasted image 20231030175914.png",
     "Pasted image 20231030175548.png",
     "Pasted image 20231030174044.png",
-    "TIL/2023/2023-10-30.md",
     "TIL/2023/2023-10-29.md",
     "코딩테스트/프로그래머스 SQL 문제 정리.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
@@ -205,8 +206,6 @@
     "TIL/2023/2023-10-21.md",
     "TIL/2023/2023-10-23.md",
     "TIL/2023/2023-10-22.md",
-    "OOP/OOP 질문 정리.md",
-    "TIL/2023/2023-10-20.md",
     "OOP",
     "img/Pasted image 20231013174204.png",
     "CS/Network",
