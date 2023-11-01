@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/운영체제/스케쥴러.md",
+                "file": "CS/운영체제/개념정리/스케쥴러.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/운영체제/메모리 관리 전략.md",
+                "file": "TIL/2023/2023-11-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/운영체제/CPU 스케쥴링 알고리즘.md",
+                "file": "CS/운영체제/개념정리/CPU 스케쥴링 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/운영체제/메모리 관리 전략.md",
+                "file": "TIL/2023/2023-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/운영체제/메모리 관리 전략.md",
+                "file": "TIL/2023/2023-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/운영체제/메모리 관리 전략.md"
+                "file": "TIL/2023/2023-11-01.md"
               }
             }
           },
@@ -198,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,15 +215,18 @@
   },
   "active": "fb20b607011ea98e",
   "lastOpenFiles": [
-    "CS/운영체제/운영체제 개요.md",
-    "CS/운영체제/메모리 관리 전략.md",
-    "0. Inbox/프로세스 동기화.md",
-    "CS/운영체제/동기와 비동기의 차이.md",
-    "CS/운영체제/Blocking, Non Blocking.md",
-    "CS/운영체제/CPU 스케쥴링 알고리즘.md",
-    "0. Inbox/AOP.md",
-    "CS/운영체제/스케쥴러.md",
+    "CS/운영체제/개념정리/메모리 관리 전략.md",
+    "TIL/2023/2023-11-01.md",
+    "CS/운영체제/개념정리/스케쥴러.md",
     "TIL/2023/2023-10-31.md",
+    "CS/운영체제/운영체제 개요.md",
+    "0. Inbox/무제 파일.md",
+    "CS/운영체제/개념정리",
+    "0. Inbox/프로세스 동기화.md",
+    "CS/운영체제/개념정리/동기와 비동기의 차이.md",
+    "CS/운영체제/개념정리/Blocking, Non Blocking.md",
+    "CS/운영체제/개념정리/CPU 스케쥴링 알고리즘.md",
+    "0. Inbox/AOP.md",
     "CS/운영체제",
     "Templates/TIL Template.md",
     "TIL/2023/2023-10-30.md",
@@ -241,8 +246,6 @@
     "TIL/2023/2023-10-17.md",
     "TIL/2023/2023-10-19.md",
     "우테코/하루스터디 무중단 배포 플로우 정리.md",
-    "우테코/스터디 동시 진행 기능 업데이트를 위한 무중단 배포 시나리오 정리.md",
-    "TIL/2023/2023-10-25.md",
     "OOP",
     "img/Pasted image 20231013174204.png",
     "CS/Network",
@@ -257,7 +260,6 @@
     "Spring",
     "JPA",
     "Java",
-    "CS/DB",
     "img/Pasted image 20230927181854.png",
     "무제 파일.canvas"
   ]
