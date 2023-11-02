@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f98cabfa99b4cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/2023/2023-11-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-02.md",
+                "file": "TIL/2023/2023-11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-02.md",
+                "file": "TIL/2023/2023-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-02.md"
+                "file": "TIL/2023/2023-11-03.md"
               }
             }
           },
@@ -158,12 +170,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +188,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fe4b15b3f50a947",
+  "active": "1f98cabfa99b4cb2",
   "lastOpenFiles": [
-    "CS/Network/상위 1% 네트워크 1장 정리.md",
+    "Spring/스프링 핵심원리 기본편/객체 지향 원리 적용.md",
+    "TIL/2023/2023-11-03.md",
     "TIL/2023/2023-11-02.md",
+    "Spring/스프링 핵심원리 기본편",
+    "TIL/2023/2023-11-01.md",
+    "CS/Network/상위 1% 네트워크 1장 정리.md",
     "CS/Network/네트워크 개요.md",
     "CS/Network/개념정리/웹 통신의 큰 흐름.md",
     "CS/Network/개념정리",
@@ -190,7 +206,6 @@
     "CS/Network/개념정리/HTTP 의 GET 과 POST 비교.md",
     "CS/운영체제/운영체제 개요.md",
     "CS/운영체제/개념정리/프로세스 동기화.md",
-    "TIL/2023/2023-11-01.md",
     "CS/운영체제/개념정리/CPU 스케쥴링 알고리즘.md",
     "TIL/2023/2023-10-31.md",
     "CS/운영체제/개념정리/스케쥴러.md",
@@ -208,8 +223,6 @@
     "Pasted image 20231030174044.png",
     "TIL/2023/2023-10-29.md",
     "코딩테스트/프로그래머스 SQL 문제 정리.md",
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
-    "0. Inbox/조영호님 우아한객체지향 영상 정리.md",
     "OOP",
     "img/Pasted image 20231013174204.png",
     "CS/Network",
@@ -222,7 +235,6 @@
     "Pasted image 20231001022953.png",
     "Development",
     "Spring",
-    "JPA",
     "img/Pasted image 20230927181854.png",
     "무제 파일.canvas"
   ]
