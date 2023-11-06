@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-06.md",
+                "file": "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "abe0f22c806215be",
+            "id": "516b127394d60960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-03.md",
+                "file": "TIL/2023/2023-11-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-06.md",
+                "file": "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-06.md",
+                "file": "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-06.md"
+                "file": "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md"
               }
             }
           },
@@ -176,14 +176,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f98cabfa99b4cb2",
+  "active": "a0df98810d39bf6d",
   "lastOpenFiles": [
+    "Spring/스프링 핵심원리 기본편/싱글톤 컨테이너.md",
+    "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
     "Spring/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
+    "코딩테스트/코딩테스트 대비 코드 노트.md",
     "TIL/2023/2023-11-06.md",
+    "TIL/2023/2023-11-03.md",
+    "코딩테스트/코테 오답노트.md",
     "Pasted image 20231103175234.png",
     "Pasted image 20231103162725.png",
     "Spring/스프링 핵심원리 기본편/객체 지향 원리 적용.md",
-    "TIL/2023/2023-11-03.md",
     "TIL/2023/2023-11-02.md",
     "Spring/스프링 핵심원리 기본편",
     "TIL/2023/2023-11-01.md",
@@ -205,11 +209,7 @@
     "CS/운영체제/개념정리",
     "CS/운영체제/개념정리/동기와 비동기의 차이.md",
     "CS/운영체제/개념정리/Blocking, Non Blocking.md",
-    "0. Inbox/AOP.md",
     "CS/운영체제",
-    "Templates/TIL Template.md",
-    "TIL/2023/2023-10-30.md",
-    "Templates/Posting Template.md",
     "Pasted image 20231030175914.png",
     "Pasted image 20231030175548.png",
     "Pasted image 20231030174044.png",
