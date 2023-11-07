@@ -8,24 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f98cabfa99b4cb2",
+            "id": "516b127394d60960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-07.md",
+                "file": "TIL/2023/2023-11-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "516b127394d60960",
+            "id": "3cdc4cd4c7b42f73",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Keyword Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "3f0c2b78374d3082",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/AOP.md",
+                "file": "TIL/2023/2023-11-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-07.md",
+                "file": "TIL/2023/2023-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-07.md",
+                "file": "TIL/2023/2023-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-07.md"
+                "file": "TIL/2023/2023-11-08.md"
               }
             }
           },
@@ -162,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,19 +185,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f98cabfa99b4cb2",
+  "active": "516b127394d60960",
   "lastOpenFiles": [
-    "Spring/AOP.md",
-    "TIL/2023/2023-11-06.md",
+    "Spring/스프링 핵심원리 기본편/빈 생명주기 콜백.md",
+    "TIL/2023/2023-11-08.md",
+    "Spring/스프링 핵심원리 기본편/의존관계 자동 주입.md",
+    "코딩테스트/유형/재귀.md",
     "TIL/2023/2023-11-07.md",
+    "코딩테스트/코테 오답노트.md",
+    "코딩테스트/유형",
+    "코딩테스트/코딩테스트 대비 코드 노트.md",
+    "Keyword Kanban.md",
+    "TIL/2023/2023-11-06.md",
+    "Spring/AOP.md",
+    "img/Pasted image 20231030174044.png",
+    "img/Pasted image 20231030175914.png",
+    "img/Pasted image 20231030175548.png",
     "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
     "Spring/스프링 핵심원리 기본편/싱글톤 컨테이너.md",
     "Spring/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
     "TIL/2023/2023-11-03.md",
-    "코딩테스트/코테 오답노트.md",
-    "Pasted image 20231103175234.png",
-    "Pasted image 20231103162725.png",
+    "img/Pasted image 20231103175234.png",
+    "img/Pasted image 20231103162725.png",
     "Spring/스프링 핵심원리 기본편/객체 지향 원리 적용.md",
     "TIL/2023/2023-11-02.md",
     "Spring/스프링 핵심원리 기본편",
@@ -203,16 +221,8 @@
     "CS/Network/개념정리/TCP 3-way-handshake, 4-way-handshake.md",
     "CS/Network/개념정리/HTTP 의 GET 과 POST 비교.md",
     "CS/운영체제/운영체제 개요.md",
-    "CS/운영체제/개념정리/프로세스 동기화.md",
-    "CS/운영체제/개념정리/CPU 스케쥴링 알고리즘.md",
-    "TIL/2023/2023-10-31.md",
-    "CS/운영체제/개념정리/스케쥴러.md",
-    "CS/운영체제/개념정리/메모리 관리 전략.md",
     "CS/운영체제/개념정리",
     "CS/운영체제",
-    "Pasted image 20231030175914.png",
-    "Pasted image 20231030175548.png",
-    "Pasted image 20231030174044.png",
     "OOP",
     "img/Pasted image 20231013174204.png",
     "CS/Network",
@@ -223,7 +233,6 @@
     "TIL/2023",
     "img/하루스터디 프로덕션 인프라 구성도(scale out 이전).png",
     "Development",
-    "Spring",
     "무제 파일.canvas"
   ]
 }

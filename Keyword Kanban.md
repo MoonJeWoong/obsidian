@@ -12,11 +12,13 @@ kanban-plugin: basic
 ## DB
 
 **Complete**
-- [ ] [[트랜잭션]]
+- [x] [[트랜잭션]]
 
-***
 
-## Archive
+## To-Do
+
+- [ ] 모던 자바 인 액션 - 스트림
+
 
 
 
