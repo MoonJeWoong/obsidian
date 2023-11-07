@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
+                "file": "TIL/2023/2023-11-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-06.md",
+                "file": "Spring/AOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
+                "file": "TIL/2023/2023-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
+                "file": "TIL/2023/2023-11-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md"
+                "file": "TIL/2023/2023-11-07.md"
               }
             }
           },
@@ -176,13 +176,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0df98810d39bf6d",
+  "active": "1f98cabfa99b4cb2",
   "lastOpenFiles": [
-    "Spring/스프링 핵심원리 기본편/싱글톤 컨테이너.md",
+    "Spring/AOP.md",
+    "TIL/2023/2023-11-06.md",
+    "TIL/2023/2023-11-07.md",
     "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
+    "Spring/스프링 핵심원리 기본편/싱글톤 컨테이너.md",
     "Spring/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
-    "TIL/2023/2023-11-06.md",
     "TIL/2023/2023-11-03.md",
     "코딩테스트/코테 오답노트.md",
     "Pasted image 20231103175234.png",
@@ -207,8 +209,6 @@
     "CS/운영체제/개념정리/스케쥴러.md",
     "CS/운영체제/개념정리/메모리 관리 전략.md",
     "CS/운영체제/개념정리",
-    "CS/운영체제/개념정리/동기와 비동기의 차이.md",
-    "CS/운영체제/개념정리/Blocking, Non Blocking.md",
     "CS/운영체제",
     "Pasted image 20231030175914.png",
     "Pasted image 20231030175548.png",
