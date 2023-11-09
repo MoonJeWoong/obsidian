@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-08.md",
+                "file": "TIL/2023/2023-11-09.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3cdc4cd4c7b42f73",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Keyword Kanban.md"
               }
             }
           },
@@ -35,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-07.md",
+                "file": "TIL/2023/2023-11-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-08.md",
+                "file": "TIL/2023/2023-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-08.md",
+                "file": "TIL/2023/2023-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-08.md"
+                "file": "TIL/2023/2023-11-09.md"
               }
             }
           },
@@ -187,15 +177,17 @@
   },
   "active": "516b127394d60960",
   "lastOpenFiles": [
-    "Spring/스프링 핵심원리 기본편/빈 생명주기 콜백.md",
+    "Spring/스프링 핵심원리 기본편/빈 스코프.md",
+    "TIL/2023/2023-11-09.md",
     "TIL/2023/2023-11-08.md",
+    "Spring/스프링 핵심원리 기본편/빈 생명주기 콜백.md",
+    "코딩테스트/코딩테스트 대비 코드 노트.md",
+    "TIL/2023/2023-11-07.md",
+    "Keyword Kanban.md",
     "Spring/스프링 핵심원리 기본편/의존관계 자동 주입.md",
     "코딩테스트/유형/재귀.md",
-    "TIL/2023/2023-11-07.md",
     "코딩테스트/코테 오답노트.md",
     "코딩테스트/유형",
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
-    "Keyword Kanban.md",
     "TIL/2023/2023-11-06.md",
     "Spring/AOP.md",
     "img/Pasted image 20231030174044.png",
@@ -219,8 +211,6 @@
     "CS/Network/개념정리/HTTP 와 HTTPS.md",
     "CS/Network/개념정리/TCP와 UDP의 비교.md",
     "CS/Network/개념정리/TCP 3-way-handshake, 4-way-handshake.md",
-    "CS/Network/개념정리/HTTP 의 GET 과 POST 비교.md",
-    "CS/운영체제/운영체제 개요.md",
     "CS/운영체제/개념정리",
     "CS/운영체제",
     "OOP",
