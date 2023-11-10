@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-09.md",
+                "file": "TIL/2023/2023-11-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-09.md",
+                "file": "TIL/2023/2023-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-09.md",
+                "file": "TIL/2023/2023-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-09.md"
+                "file": "TIL/2023/2023-11-10.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "516b127394d60960",
   "lastOpenFiles": [
+    "TIL/2023/2023-11-09.md",
+    "TIL/2023/2023-11-10.md",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "CS/DB/ACID.md",
     "img/Pasted image 20231109165922.png",
@@ -176,7 +178,6 @@
     "img/Pasted image 20231109170132.png",
     "img/Pasted image 20231109170027.png",
     "img/Pasted image 20231109152200.png",
-    "TIL/2023/2023-11-09.md",
     "TIL/2023/2023-11-08.md",
     "CS/DB/트랜잭션.md",
     "Spring/스프링 핵심원리 기본편/빈 스코프.md",
