@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-10.md",
+                "file": "TIL/2023/2023-11-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-10.md",
+                "file": "TIL/2023/2023-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-10.md",
+                "file": "TIL/2023/2023-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-10.md"
+                "file": "TIL/2023/2023-11-11.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "516b127394d60960",
   "lastOpenFiles": [
-    "TIL/2023/2023-11-09.md",
     "TIL/2023/2023-11-10.md",
+    "TIL/2023/2023-11-11.md",
+    "Pasted image 20231110202908.png",
+    "Pasted image 20231110202847.png",
+    "TIL/2023/2023-11-09.md",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "CS/DB/ACID.md",
     "img/Pasted image 20231109165922.png",
@@ -177,7 +180,6 @@
     "img/Pasted image 20231109171211.png",
     "img/Pasted image 20231109170132.png",
     "img/Pasted image 20231109170027.png",
-    "img/Pasted image 20231109152200.png",
     "TIL/2023/2023-11-08.md",
     "CS/DB/트랜잭션.md",
     "Spring/스프링 핵심원리 기본편/빈 스코프.md",
@@ -191,7 +193,6 @@
     "코딩테스트/유형",
     "TIL/2023/2023-11-06.md",
     "Spring/AOP.md",
-    "img/Pasted image 20231030174044.png",
     "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
     "Spring/스프링 핵심원리 기본편/싱글톤 컨테이너.md",
     "Spring/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
@@ -202,7 +203,6 @@
     "TIL/2023/2023-11-01.md",
     "CS/Network/상위 1% 네트워크 1장 정리.md",
     "CS/Network/네트워크 개요.md",
-    "CS/Network/개념정리/웹 통신의 큰 흐름.md",
     "CS/Network/개념정리",
     "CS/운영체제/개념정리",
     "CS/운영체제",
