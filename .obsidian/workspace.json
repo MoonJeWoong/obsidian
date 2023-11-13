@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-13.md",
+                "file": "CS/컴퓨터 구조/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06969a7f64c12cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-13.md",
+                "file": "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-13.md",
+                "file": "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-13.md"
+                "file": "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md"
               }
             }
           },
@@ -163,10 +176,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "516b127394d60960",
+  "active": "06969a7f64c12cf4",
   "lastOpenFiles": [
-    "개발/하루스터디 기능 정리.md",
+    "CS/컴퓨터 구조/Index.md",
+    "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
+    "CS/컴퓨터 구조/page",
     "TIL/2023/2023-11-13.md",
+    "CS/컴퓨터 구조",
+    "개발/하루스터디 기능 정리.md",
+    "개발/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
+    "개발/하루스터디 서비스 마이그레이션.md",
     "Keyword Kanban.md",
     "Pasted image 20231110202847.png",
     "TIL/2023/2023-11-12.md",
@@ -174,7 +193,6 @@
     "Spring/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
     "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
     "TIL/2023/2023-11-10.md",
-    "개발/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
     "0. Inbox/JPA에서 delete는 왜 select 문이 나가는가.md",
     "README.md",
     "개발/Nginx.md",
@@ -197,11 +215,7 @@
     "Spring/스프링 핵심원리 기본편/빈 생명주기 콜백.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "TIL/2023/2023-11-07.md",
-    "Spring/스프링 핵심원리 기본편/의존관계 자동 주입.md",
-    "코딩테스트/유형/재귀.md",
-    "코딩테스트/코테 오답노트.md",
     "코딩테스트/유형",
-    "TIL/2023/2023-11-06.md",
     "Spring/스프링 핵심원리 기본편",
     "CS/Network/개념정리",
     "CS/운영체제/개념정리",
@@ -209,8 +223,6 @@
     "OOP",
     "CS/Network",
     "CS",
-    "TIL/2023",
-    "개발",
     "무제 파일.canvas"
   ]
 }
