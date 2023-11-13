@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-12.md",
+                "file": "TIL/2023/2023-11-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-12.md",
+                "file": "TIL/2023/2023-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-12.md",
+                "file": "TIL/2023/2023-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-12.md"
+                "file": "TIL/2023/2023-11-13.md"
               }
             }
           },
@@ -166,15 +166,20 @@
   "active": "516b127394d60960",
   "lastOpenFiles": [
     "개발/하루스터디 기능 정리.md",
-    "TIL/2023/2023-11-12.md",
+    "TIL/2023/2023-11-13.md",
     "Keyword Kanban.md",
+    "Pasted image 20231110202847.png",
+    "TIL/2023/2023-11-12.md",
+    "Spring/스프링 핵심원리 기본편/싱글톤 컨테이너.md",
+    "Spring/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
+    "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
+    "TIL/2023/2023-11-10.md",
+    "개발/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
+    "0. Inbox/JPA에서 delete는 왜 select 문이 나가는가.md",
     "README.md",
     "개발/Nginx.md",
-    "개발/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
     "TIL/2023/2023-11-11.md",
-    "TIL/2023/2023-11-10.md",
     "Pasted image 20231110202908.png",
-    "Pasted image 20231110202847.png",
     "TIL/2023/2023-11-09.md",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "CS/DB/ACID.md",
@@ -197,11 +202,6 @@
     "코딩테스트/코테 오답노트.md",
     "코딩테스트/유형",
     "TIL/2023/2023-11-06.md",
-    "Spring/AOP.md",
-    "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
-    "Spring/스프링 핵심원리 기본편/싱글톤 컨테이너.md",
-    "Spring/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
-    "TIL/2023/2023-11-03.md",
     "Spring/스프링 핵심원리 기본편",
     "CS/Network/개념정리",
     "CS/운영체제/개념정리",

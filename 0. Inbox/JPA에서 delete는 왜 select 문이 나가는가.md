@@ -1,0 +1,1 @@
+https://velog.io/@park2348190/JPA%EC%9D%98-delete-%EC%BF%BC%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C
