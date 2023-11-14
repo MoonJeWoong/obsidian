@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/컴퓨터 구조/Index.md",
+                "file": "TIL/2023/2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
+                "file": "TIL/2023/2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
+                "file": "TIL/2023/2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md"
+                "file": "TIL/2023/2023-11-14.md"
               }
             }
           },
@@ -176,12 +175,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06969a7f64c12cf4",
+  "active": "516b127394d60960",
   "lastOpenFiles": [
+    "TIL/2023/2023-11-13.md",
+    "TIL/2023/2023-11-14.md",
     "CS/컴퓨터 구조/Index.md",
     "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
     "CS/컴퓨터 구조/page",
-    "TIL/2023/2023-11-13.md",
     "CS/컴퓨터 구조",
     "개발/하루스터디 기능 정리.md",
     "개발/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
