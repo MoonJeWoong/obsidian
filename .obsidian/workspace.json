@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-14.md",
+                "file": "TIL/2023/2023-11-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-14.md",
+                "file": "TIL/2023/2023-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-14.md",
+                "file": "TIL/2023/2023-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-14.md"
+                "file": "TIL/2023/2023-11-16.md"
               }
             }
           },
@@ -177,8 +177,13 @@
   },
   "active": "516b127394d60960",
   "lastOpenFiles": [
-    "TIL/2023/2023-11-13.md",
+    "OOP/자바와 객체지향.md",
+    "TIL/2023/2023-11-16.md",
     "TIL/2023/2023-11-14.md",
+    "TIL/2023/2023-11-13.md",
+    "TIL/2023/2023-11-10.md",
+    "Spring/스프링 핵심원리 기본편/객체 지향 원리 적용.md",
+    "0. Inbox/JPA에서 delete는 왜 select 문이 나가는가.md",
     "CS/컴퓨터 구조/Index.md",
     "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
     "CS/컴퓨터 구조/page",
@@ -192,8 +197,6 @@
     "Spring/스프링 핵심원리 기본편/싱글톤 컨테이너.md",
     "Spring/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
     "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
-    "TIL/2023/2023-11-10.md",
-    "0. Inbox/JPA에서 delete는 왜 select 문이 나가는가.md",
     "README.md",
     "개발/Nginx.md",
     "TIL/2023/2023-11-11.md",
@@ -212,9 +215,6 @@
     "TIL/2023/2023-11-08.md",
     "CS/DB/트랜잭션.md",
     "Spring/스프링 핵심원리 기본편/빈 스코프.md",
-    "Spring/스프링 핵심원리 기본편/빈 생명주기 콜백.md",
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
-    "TIL/2023/2023-11-07.md",
     "코딩테스트/유형",
     "Spring/스프링 핵심원리 기본편",
     "CS/Network/개념정리",
