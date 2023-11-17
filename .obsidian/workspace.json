@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-16.md",
+                "file": "코딩테스트/코딩테스트 대비 코드 노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
+                "file": "TIL/2023/2023-11-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-16.md",
+                "file": "TIL/2023/2023-11-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-16.md",
+                "file": "TIL/2023/2023-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-16.md"
+                "file": "TIL/2023/2023-11-17.md"
               }
             }
           },
@@ -162,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,11 +178,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "516b127394d60960",
+  "active": "06969a7f64c12cf4",
   "lastOpenFiles": [
-    "TIL/2023/2023-11-16.md",
-    "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
     "OOP/자바와 객체지향.md",
+    "TIL/2023/2023-11-17.md",
+    "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
+    "코딩테스트/코딩테스트 대비 코드 노트.md",
+    "코딩테스트/프로그래머스 SQL 문제 정리.md",
+    "코딩테스트/코테 오답노트.md",
+    "TIL/2023/2023-11-16.md",
     "TIL/2023/2023-11-14.md",
     "TIL/2023/2023-11-13.md",
     "TIL/2023/2023-11-10.md",
@@ -203,7 +210,6 @@
     "Pasted image 20231110202908.png",
     "TIL/2023/2023-11-09.md",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
-    "CS/DB/ACID.md",
     "img/Pasted image 20231109165922.png",
     "img/Pasted image 20231109172611.png",
     "img/Pasted image 20231109172020.png",
@@ -212,9 +218,6 @@
     "img/Pasted image 20231109171211.png",
     "img/Pasted image 20231109170132.png",
     "img/Pasted image 20231109170027.png",
-    "TIL/2023/2023-11-08.md",
-    "CS/DB/트랜잭션.md",
-    "Spring/스프링 핵심원리 기본편/빈 스코프.md",
     "코딩테스트/유형",
     "Spring/스프링 핵심원리 기본편",
     "CS/Network/개념정리",
