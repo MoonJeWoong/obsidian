@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/자바와 객체지향.md",
+                "file": "TIL/2023/2023-11-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP/자바와 객체지향.md",
+                "file": "TIL/2023/2023-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP/자바와 객체지향.md",
+                "file": "TIL/2023/2023-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP/자바와 객체지향.md"
+                "file": "TIL/2023/2023-11-20.md"
               }
             }
           },
@@ -165,10 +165,12 @@
   },
   "active": "cb453e61b0f0a35e",
   "lastOpenFiles": [
+    "TIL/2023/2023-11-18.md",
+    "TIL/2023/2023-11-20.md",
+    "OOP/자바와 객체지향.md",
     "개발/특강/원티드 아키텍처 특강 3.md",
     "TIL/2023/2023-11-16.md",
     "TIL/2023/2023-11-17.md",
-    "OOP/자바와 객체지향.md",
     "개발/특강/원티드 아키텍처 특강 1.md",
     "개발/특강/원티드 아키텍처 특강 2.md",
     "TIL/2023/2023-11-12.md",
@@ -194,8 +196,6 @@
     "Keyword Kanban.md",
     "Spring/스프링 핵심원리 기본편/싱글톤 컨테이너.md",
     "Spring/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
-    "Spring/스프링 핵심원리 기본편/컴포넌트 스캔.md",
-    "README.md",
     "img/Pasted image 20231109165922.png",
     "img/Pasted image 20231109172611.png",
     "img/Pasted image 20231109172020.png",
