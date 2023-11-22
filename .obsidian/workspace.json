@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/자바와 객체지향.md",
+                "file": "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,10 +177,13 @@
   },
   "active": "cb453e61b0f0a35e",
   "lastOpenFiles": [
-    "TIL/2023/2023-11-21.md",
     "TIL/2023/2023-11-22.md",
+    "0. Inbox/무제 파일.md",
+    "독서/개발서적",
+    "독서",
+    "TIL/2023/2023-11-21.md",
     "Spring/Application Context Caching.md",
-    "OOP/자바와 객체지향.md",
+    "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
     "TIL/2023/2023-11-20.md",
     "TIL/2023/2023-11-18.md",
     "개발/특강/원티드 아키텍처 특강 3.md",
@@ -207,7 +210,6 @@
     "CS/컴퓨터 구조",
     "개발/하루스터디 기능 정리.md",
     "개발/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
-    "개발/하루스터디 서비스 마이그레이션.md",
     "img/Pasted image 20231109165922.png",
     "img/Pasted image 20231109172611.png",
     "img/Pasted image 20231109172020.png",
@@ -221,8 +223,6 @@
     "CS/Network/개념정리",
     "CS/운영체제/개념정리",
     "CS/운영체제",
-    "OOP",
-    "CS/Network",
     "무제 파일.canvas"
   ]
 }
