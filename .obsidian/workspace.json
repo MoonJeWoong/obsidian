@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Application Context Caching.md",
+                "file": "TIL/2023/2023-11-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP/자바와 객체지향.md",
+                "file": "TIL/2023/2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP/자바와 객체지향.md",
+                "file": "TIL/2023/2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP/자바와 객체지향.md"
+                "file": "TIL/2023/2023-11-22.md"
               }
             }
           },
@@ -176,12 +175,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "450ca267575f3d28",
+  "active": "cb453e61b0f0a35e",
   "lastOpenFiles": [
+    "TIL/2023/2023-11-21.md",
+    "TIL/2023/2023-11-22.md",
     "Spring/Application Context Caching.md",
+    "OOP/자바와 객체지향.md",
     "TIL/2023/2023-11-20.md",
     "TIL/2023/2023-11-18.md",
-    "OOP/자바와 객체지향.md",
     "개발/특강/원티드 아키텍처 특강 3.md",
     "TIL/2023/2023-11-16.md",
     "TIL/2023/2023-11-17.md",
@@ -207,8 +208,6 @@
     "개발/하루스터디 기능 정리.md",
     "개발/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
     "개발/하루스터디 서비스 마이그레이션.md",
-    "Keyword Kanban.md",
-    "Spring/스프링 핵심원리 기본편/싱글톤 컨테이너.md",
     "img/Pasted image 20231109165922.png",
     "img/Pasted image 20231109172611.png",
     "img/Pasted image 20231109172020.png",
