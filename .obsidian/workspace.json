@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-22.md",
+                "file": "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-22.md",
+                "file": "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-22.md",
+                "file": "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-22.md"
+                "file": "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md"
               }
             }
           },
@@ -177,14 +177,16 @@
   },
   "active": "cb453e61b0f0a35e",
   "lastOpenFiles": [
+    "TIL/2023/2023-11-23.md",
+    "TIL/2023/2023-11-20.md",
+    "TIL/2023/2023-11-21.md",
     "TIL/2023/2023-11-22.md",
+    "TIL/2023/2023-11-15.md",
     "0. Inbox/무제 파일.md",
     "독서/개발서적",
     "독서",
-    "TIL/2023/2023-11-21.md",
     "Spring/Application Context Caching.md",
     "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
-    "TIL/2023/2023-11-20.md",
     "TIL/2023/2023-11-18.md",
     "개발/특강/원티드 아키텍처 특강 3.md",
     "TIL/2023/2023-11-16.md",
@@ -199,7 +201,6 @@
     "개발/특강",
     "img/Pasted image 20231110202847.png",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
-    "TIL/2023/2023-11-15.md",
     "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
     "코딩테스트/프로그래머스 SQL 문제 정리.md",
     "코딩테스트/코테 오답노트.md",
@@ -209,7 +210,6 @@
     "CS/컴퓨터 구조/page",
     "CS/컴퓨터 구조",
     "개발/하루스터디 기능 정리.md",
-    "개발/다중 서버 환경에서 그라파나 로키를 이용해 로깅하기.md",
     "img/Pasted image 20231109165922.png",
     "img/Pasted image 20231109172611.png",
     "img/Pasted image 20231109172020.png",
