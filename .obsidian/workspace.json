@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-11-27.md",
+                "file": "TIL/2023/2023-11-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-11-27.md",
+                "file": "TIL/2023/2023-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-11-27.md",
+                "file": "TIL/2023/2023-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-11-27.md"
+                "file": "TIL/2023/2023-11-29.md"
               }
             }
           },
@@ -177,9 +177,13 @@
   },
   "active": "cb453e61b0f0a35e",
   "lastOpenFiles": [
-    "TIL/2023/2023-11-23.md",
-    "TIL/2023/2023-11-27.md",
     "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
+    "TIL/2023/2023-11-29.md",
+    "우테코/조영호님 우아한객체지향 영상 정리.md",
+    "OOP/OOP 질문 정리.md",
+    "OOP/객체지향 프로그래밍.md",
+    "TIL/2023/2023-11-27.md",
+    "TIL/2023/2023-11-23.md",
     "TIL/2023/2023-11-20.md",
     "TIL/2023/2023-11-21.md",
     "TIL/2023/2023-11-22.md",
@@ -204,10 +208,6 @@
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "CS/컴퓨터 구조/page/컴퓨터 구조 시작하기.md",
     "코딩테스트/프로그래머스 SQL 문제 정리.md",
-    "코딩테스트/코테 오답노트.md",
-    "Spring/스프링 핵심원리 기본편/객체 지향 원리 적용.md",
-    "0. Inbox/JPA에서 delete는 왜 select 문이 나가는가.md",
-    "CS/컴퓨터 구조/Index.md",
     "CS/컴퓨터 구조/page",
     "CS/컴퓨터 구조",
     "img/Pasted image 20231109165922.png",
