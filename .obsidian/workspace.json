@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -162,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +179,8 @@
   },
   "active": "cb453e61b0f0a35e",
   "lastOpenFiles": [
-    "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
     "TIL/2023/2023-11-29.md",
+    "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
     "우테코/조영호님 우아한객체지향 영상 정리.md",
     "OOP/OOP 질문 정리.md",
     "OOP/객체지향 프로그래밍.md",
