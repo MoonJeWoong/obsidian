@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2023-12-07.md",
+                "file": "TIL/2023/2023-12-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-12-07.md",
+                "file": "TIL/2023/2023-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-12-07.md",
+                "file": "TIL/2023/2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-12-07.md"
+                "file": "TIL/2023/2023-12-09.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "72ac05f2c6302050",
   "lastOpenFiles": [
-    "OOP/객체지향 프로그래밍.md",
     "TIL/2023/2023-12-07.md",
+    "TIL/2023/2023-12-09.md",
+    "OOP/객체지향 프로그래밍.md",
     "TIL/2023/2023-12-06.md",
     "OOP/OOP 질문 정리.md",
     "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
@@ -232,7 +233,6 @@
     "img/Pasted image 20231110202908.png",
     "개발/특강",
     "img/Pasted image 20231110202847.png",
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
     "CS/컴퓨터 구조/page",
     "CS/컴퓨터 구조",
     "img/Pasted image 20231109165922.png",
