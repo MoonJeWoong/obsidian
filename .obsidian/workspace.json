@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
+                "file": "TIL/2023/2024-01-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2023-12-10.md",
+                "file": "TIL/2023/2024-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2023-12-10.md",
+                "file": "TIL/2023/2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2023-12-10.md"
+                "file": "TIL/2023/2024-01-25.md"
               }
             }
           },
@@ -200,12 +200,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72ac05f2c6302050",
+  "active": "450ca267575f3d28",
   "lastOpenFiles": [
-    "OOP/객체지향 프로그래밍.md",
-    "TIL/2023/2023-12-10.md",
-    "OOP/OOP 질문 정리.md",
     "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
+    "TIL/2023/2024-01-25.md",
+    "OOP/OOP 질문 정리.md",
+    "TIL/2023/2023-12-10.md",
+    "OOP/객체지향 프로그래밍.md",
     "TIL/2023/2023-12-09.md",
     "TIL/2023/2023-12-07.md",
     "TIL/2023/2023-12-06.md",
@@ -229,7 +230,6 @@
     "개발/특강/원티드 아키텍처 특강 2.md",
     "TIL/2023/2023-11-12.md",
     "TIL/2023/2023-11-10.md",
-    "TIL/2023/2023-11-13.md",
     "img/Pasted image 20231110202908.png",
     "개발/특강",
     "img/Pasted image 20231110202847.png",
