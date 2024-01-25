@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023/2024-01-25.md",
+                "file": "TIL/2024/2024-01-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023/2024-01-25.md",
+                "file": "TIL/2024/2024-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023/2024-01-25.md",
+                "file": "TIL/2024/2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023/2024-01-25.md"
+                "file": "TIL/2024/2024-01-25.md"
               }
             }
           },
@@ -202,8 +202,14 @@
   },
   "active": "450ca267575f3d28",
   "lastOpenFiles": [
+    "TIL/2024/2024-01-26.md",
+    "TIL/2024/2024-01-25.md",
+    "TIL/2024",
+    "Templates/TIL Template.md",
+    "개발/Nginx.md",
+    "Templates/Posting Template.md",
+    "Spring/스프링 핵심원리 기본편/객체 지향 원리 적용.md",
     "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
-    "TIL/2023/2024-01-25.md",
     "OOP/OOP 질문 정리.md",
     "TIL/2023/2023-12-10.md",
     "OOP/객체지향 프로그래밍.md",
@@ -224,12 +230,6 @@
     "Spring/Application Context Caching.md",
     "TIL/2023/2023-11-18.md",
     "개발/특강/원티드 아키텍처 특강 3.md",
-    "TIL/2023/2023-11-16.md",
-    "TIL/2023/2023-11-17.md",
-    "개발/특강/원티드 아키텍처 특강 1.md",
-    "개발/특강/원티드 아키텍처 특강 2.md",
-    "TIL/2023/2023-11-12.md",
-    "TIL/2023/2023-11-10.md",
     "img/Pasted image 20231110202908.png",
     "개발/특강",
     "img/Pasted image 20231110202847.png",
@@ -247,7 +247,6 @@
     "Spring/스프링 핵심원리 기본편",
     "CS/Network/개념정리",
     "CS/운영체제/개념정리",
-    "CS/운영체제",
     "무제 파일.canvas"
   ]
 }
