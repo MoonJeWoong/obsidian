@@ -9,15 +9,22 @@ kanban-plugin: basic
 **Complete**
 
 
+## JPA
+
+- [ ] JPA Auditing
+
+
 ## DB
 
 **Complete**
 - [x] [[트랜잭션]]
+- [x] [[인덱스]] ^zizlff
 
 
 ## To-Do
 
-- [ ] 모던 자바 인 액션 - 스트림
+- [ ] [[Stream]]
+- [ ] [[Lambda]]
 - [ ] [[Nginx]] ^klzj15
 - [ ] [[JPA에서 delete는 왜 select 문이 나가는가]]
 

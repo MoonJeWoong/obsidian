@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "우테코/쿼리 분석.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbb82168853ac4f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/2024/2024-01-30.md",
+                "file": "TIL/2024/2024-01-31.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-01-30.md",
+                "file": "TIL/2024/2024-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-01-30.md",
+                "file": "TIL/2024/2024-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-01-30.md"
+                "file": "TIL/2024/2024-01-31.md"
               }
             }
           },
@@ -176,12 +163,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bbb82168853ac4f9",
+  "active": "450ca267575f3d28",
   "lastOpenFiles": [
-    "TIL/2024/2024-01-29.md",
+    "TIL/2024/2024-01-31.md",
     "TIL/2024/2024-01-30.md",
-    "TIL/2024/2024-01-28.md",
+    "JPA/의문점들/JPA에서 delete는 왜 select 문이 나가는가.md",
+    "Keyword Kanban.md",
+    "JPA/의문점들",
+    "Java/Stream.md",
+    "독서/개발서적/모던 자바 인 액션/모던 자바 인 액션 - 스트림.md",
+    "Java/람다.md",
     "우테코/쿼리 분석.md",
+    "독서/개발서적/모던 자바 인 액션",
+    "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
+    "README.md",
+    "JPA/Annotations 정리.md",
+    "CS/DB/인덱스.md",
+    "개발/Nginx.md",
+    "TIL/2024/2024-01-29.md",
+    "TIL/2024/2024-01-28.md",
     "개발/하루스터디 서비스 마이그레이션.md",
     "개발/하루스터디 기능 정리.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
@@ -192,19 +192,7 @@
     "우테코/하루스터디 무중단 배포 플로우 정리.md",
     "우테코/DB Connection Pool.md",
     "우테코/스터디 동시 진행 기능 업데이트를 위한 무중단 배포 시나리오 정리.md",
-    "TIL/2024/2024-01-27.md",
-    "Java/Comparator.md",
-    "코딩테스트/유형/동적계획법(Dynamic Programming).md",
-    "TIL/2024/2024-01-26.md",
-    "코딩테스트/유형/재귀.md",
-    "TIL/2024/2024-01-25.md",
     "TIL/2024",
-    "개발/Nginx.md",
-    "Templates/Posting Template.md",
-    "Spring/스프링 핵심원리 기본편/객체 지향 원리 적용.md",
-    "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
-    "OOP/OOP 질문 정리.md",
-    "TIL/2023/2023-12-10.md",
     "독서/개발서적",
     "독서",
     "img/Pasted image 20231110202908.png",
@@ -222,8 +210,6 @@
     "img/Pasted image 20231109170027.png",
     "코딩테스트/유형",
     "Spring/스프링 핵심원리 기본편",
-    "CS/Network/개념정리",
-    "CS/운영체제/개념정리",
     "무제 파일.canvas"
   ]
 }
