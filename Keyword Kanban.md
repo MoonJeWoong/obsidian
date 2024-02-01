@@ -4,9 +4,18 @@ kanban-plugin: basic
 
 ---
 
-## Complete
+## To-Do
 
-**Complete**
+- [ ] [[Stream]]
+- [ ] [[Lambda]]
+- [ ] [[Nginx]] ^klzj15
+- [ ] [[JPA에서 delete는 왜 select 문이 나가는가]]
+
+
+## Spring
+
+- [ ] [[Autowired 사용 방법과 특징 정리]]
+- [ ] datasource
 
 
 ## JPA
@@ -21,12 +30,9 @@ kanban-plugin: basic
 - [x] [[인덱스]] ^zizlff
 
 
-## To-Do
+## Complete
 
-- [ ] [[Stream]]
-- [ ] [[Lambda]]
-- [ ] [[Nginx]] ^klzj15
-- [ ] [[JPA에서 delete는 왜 select 문이 나가는가]]
+**Complete**
 
 
 
