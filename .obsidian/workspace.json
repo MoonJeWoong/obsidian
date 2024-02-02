@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-02-01.md",
+                "file": "TIL/2024/2024-02-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-02-01.md",
+                "file": "TIL/2024/2024-02-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-02-01.md",
+                "file": "TIL/2024/2024-02-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-02-01.md"
+                "file": "TIL/2024/2024-02-02.md"
               }
             }
           },
@@ -165,8 +165,12 @@
   },
   "active": "450ca267575f3d28",
   "lastOpenFiles": [
-    "TIL/2024/2024-01-31.md",
+    "TIL/2024/2024-02-02.md",
     "TIL/2024/2024-02-01.md",
+    "코딩테스트/유형/동적계획법(Dynamic Programming).md",
+    "코딩테스트/유형/재귀.md",
+    "Templates/TIL Template.md",
+    "TIL/2024/2024-01-31.md",
     "Keyword Kanban.md",
     "Spring/정리할 내용/Autowired 사용 방법과 특징 정리.md",
     "README.md",
@@ -190,10 +194,6 @@
     "개발/하루스터디 기능 정리.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "코딩테스트/프로그래머스 SQL 문제 정리.md",
-    "코딩테스트/코테 오답노트.md",
-    "Templates/TIL Template.md",
-    "우테코/조영호님 우아한객체지향 영상 정리.md",
-    "우테코/하루스터디 무중단 배포 플로우 정리.md",
     "TIL/2024",
     "독서/개발서적",
     "독서",
