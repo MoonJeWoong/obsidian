@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-02-02.md",
+                "file": "TIL/2024/2024-02-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 309.5
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-02-02.md",
+                "file": "TIL/2024/2024-02-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-02-02.md",
+                "file": "TIL/2024/2024-02-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-02-02.md"
+                "file": "TIL/2024/2024-02-03.md"
               }
             }
           },
@@ -165,21 +165,30 @@
   },
   "active": "450ca267575f3d28",
   "lastOpenFiles": [
+    "Spring/정리해야할 내용/Spring 테스트 어노테이션 관련 정리.md",
+    "Spring/Spring Data/Spring Data Rest.md",
+    "Spring/정리해야할 내용/Spring Properties 관련 정리.md",
+    "Spring/정리해야할 내용/Autowired 사용 방법과 특징 정리.md",
+    "TIL/2024/2024-02-03.md",
+    "Spring/test",
+    "Spring/Spring Data",
+    "JPA/정리해야할 내용/Spring Data JPA - Auditing.md",
+    "JPA/정리해야할 내용/JPA  기초 - 값 타입 (@Embedded).md",
+    "JPA/정리해야할 내용/@MappedSuperClass.md",
+    "JPA/정리해야할 내용/JPA properties 중 data.sql 파일 초기화 관련 내용.md",
+    "JPA/정리해야할 내용/JPA에서 delete는 왜 select 문이 나가는가.md",
+    "Templates/TIL Template.md",
     "TIL/2024/2024-02-02.md",
     "TIL/2024/2024-02-01.md",
     "코딩테스트/유형/동적계획법(Dynamic Programming).md",
     "코딩테스트/유형/재귀.md",
-    "Templates/TIL Template.md",
     "TIL/2024/2024-01-31.md",
     "Keyword Kanban.md",
-    "Spring/정리할 내용/Autowired 사용 방법과 특징 정리.md",
     "README.md",
     "JPA/Annotations 정리.md",
-    "Spring/정리할 내용/무제 파일.md",
-    "Spring/정리할 내용",
+    "Spring/정리해야할 내용",
     "TIL/2024/2024-01-30.md",
-    "JPA/의문점들/JPA에서 delete는 왜 select 문이 나가는가.md",
-    "JPA/의문점들",
+    "JPA/정리해야할 내용",
     "Java/Stream.md",
     "독서/개발서적/모던 자바 인 액션/모던 자바 인 액션 - 스트림.md",
     "Java/람다.md",
@@ -187,13 +196,6 @@
     "독서/개발서적/모던 자바 인 액션",
     "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
     "CS/DB/인덱스.md",
-    "개발/Nginx.md",
-    "TIL/2024/2024-01-29.md",
-    "TIL/2024/2024-01-28.md",
-    "개발/하루스터디 서비스 마이그레이션.md",
-    "개발/하루스터디 기능 정리.md",
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
-    "코딩테스트/프로그래머스 SQL 문제 정리.md",
     "TIL/2024",
     "독서/개발서적",
     "독서",
@@ -201,7 +203,6 @@
     "개발/특강",
     "img/Pasted image 20231110202847.png",
     "CS/컴퓨터 구조/page",
-    "CS/컴퓨터 구조",
     "img/Pasted image 20231109165922.png",
     "img/Pasted image 20231109172611.png",
     "img/Pasted image 20231109172020.png",
@@ -210,7 +211,6 @@
     "img/Pasted image 20231109171211.png",
     "img/Pasted image 20231109170132.png",
     "img/Pasted image 20231109170027.png",
-    "코딩테스트/유형",
     "무제 파일.canvas"
   ]
 }
