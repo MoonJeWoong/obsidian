@@ -30,3 +30,4 @@ public class GreetControllerIntegrationTest {
 
 @WebAppConfiguration : 웹 어플리케이션 context를 로드하기 위한 어노테이션
 
+(시간이 많이 소요될 듯 하여 일단 게시판 프로젝트 끝내고 추후 다시 정리 예정)

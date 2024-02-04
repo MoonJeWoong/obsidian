@@ -16,6 +16,7 @@ kanban-plugin: basic
 
 - [ ] [[Autowired 사용 방법과 특징 정리]]
 - [ ] datasource
+- [ ] [[스프링에서의 통합 테스트 (mockMvc)]]
 
 
 ## JPA

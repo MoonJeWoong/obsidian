@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-02-03.md",
+                "file": "TIL/2024/2024-02-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-02-03.md",
+                "file": "TIL/2024/2024-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-02-03.md",
+                "file": "TIL/2024/2024-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-02-03.md"
+                "file": "TIL/2024/2024-02-04.md"
               }
             }
           },
@@ -165,14 +165,17 @@
   },
   "active": "450ca267575f3d28",
   "lastOpenFiles": [
+    "개발/특강/원티드 아키텍처 특강 1.md",
+    "TIL/2024/2024-02-04.md",
+    "Spring/정리해야할 내용/스프링에서의 통합 테스트 (mockMvc).md",
+    "Keyword Kanban.md",
+    "TIL/2024/2024-02-03.md",
+    "TIL/2024/2024-02-02.md",
     "Spring/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
     "Spring/스프링 핵심원리 기본편/객체 지향 원리 적용.md",
-    "Spring/정리해야할 내용/스프링에서의 통합 테스트 (mockMvc).md",
     "Spring/정리해야할 내용/Spring 테스트 어노테이션 관련 정리.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "코딩테스트/코테 오답노트.md",
-    "TIL/2024/2024-02-02.md",
-    "TIL/2024/2024-02-03.md",
     "Spring/Spring Data/Spring Data Rest.md",
     "Spring/정리해야할 내용/Spring Properties 관련 정리.md",
     "Spring/정리해야할 내용/Autowired 사용 방법과 특징 정리.md",
@@ -188,13 +191,10 @@
     "코딩테스트/유형/동적계획법(Dynamic Programming).md",
     "코딩테스트/유형/재귀.md",
     "TIL/2024/2024-01-31.md",
-    "Keyword Kanban.md",
     "README.md",
     "JPA/Annotations 정리.md",
     "Spring/정리해야할 내용",
-    "TIL/2024/2024-01-30.md",
     "JPA/정리해야할 내용",
-    "Java/Stream.md",
     "독서/개발서적/모던 자바 인 액션",
     "TIL/2024",
     "독서/개발서적",
