@@ -7,7 +7,7 @@
 일반적으로 @Id 어노테이션을 선언해서 엔티티의 기본키(PK)를 지정한다. 이때 자동으로 생성되는 값을 Id로 사용하기 위해 @GeneratedValue 어노테이션과 함께 사용한다.
 
 - strategy 타입 
-~~~
+~~~ java
 
 @GeneratedValue(strategy = GenerationType.Auto)
 
@@ -29,7 +29,7 @@
 // 시퀀스 전략과 동일하게 @SequenceGenerator가 필요하다.
 @SequenceGenerator(
 	name = "MEMBER_SEQ_GENERATOR",
-	table = "MY_SEQUENCE",  // DB 이름
+	table = "MY_SEQUENCE",  // DB 테이블 이름
 	pkColumnValue = "MEMBER_SEQ",
 	allocationSize = 1
 )
