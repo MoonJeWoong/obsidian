@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA/정리해야할 내용/JPA  기초 - 값 타입 (@Embedded).md",
+                "file": "JPA/Annotations/Annotations 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2118d27bae1ef262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA/Annotations/Annotations 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ffdaa12e476afc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA/Annotations/@Enumerated.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d5aec2303836b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA/Annotations/@Enumerated.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA/정리해야할 내용/JPA  기초 - 값 타입 (@Embedded).md",
+                "file": "JPA/Annotations/@Enumerated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA/정리해야할 내용/JPA  기초 - 값 타입 (@Embedded).md",
+                "file": "JPA/Annotations/@Enumerated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA/정리해야할 내용/JPA  기초 - 값 타입 (@Embedded).md"
+                "file": "JPA/Annotations/@Enumerated.md"
               }
             }
           },
@@ -163,9 +200,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "450ca267575f3d28",
+  "active": "a0df98810d39bf6d",
   "lastOpenFiles": [
-    "JPA/Annotations 정리.md",
+    "JPA/Annotations/Annotations 정리.md",
+    "JPA/Annotations/@Enumerated.md",
+    "JPA/Annotations",
+    "JPA/정리해야할 내용/다양한 연관관계 매핑.md",
+    "JPA/정리해야할 내용/JPA  기초 - 값 타입 (@Embedded).md",
     "코딩테스트/유형/알고리즘 복잡도 계산 +완전 탐색.md",
     "코딩테스트/유형/재귀.md",
     "TIL/2024/2024-02-07.md",
@@ -173,7 +214,6 @@
     "TIL/2024/2024-02-06.md",
     "OOP/OOP 질문 정리.md",
     "OOP/객체지향 프로그래밍.md",
-    "JPA/정리해야할 내용/JPA  기초 - 값 타입 (@Embedded).md",
     "JPA/정리해야할 내용/@MappedSuperClass.md",
     "우테코/쿼리 분석.md",
     "TIL/2024/2024-02-05.md",
@@ -189,9 +229,6 @@
     "Spring/정리해야할 내용/Spring 테스트 어노테이션 관련 정리.md",
     "코딩테스트/코딩테스트 대비 코드 노트.md",
     "코딩테스트/코테 오답노트.md",
-    "Spring/Spring Data/Spring Data Rest.md",
-    "Spring/정리해야할 내용/Spring Properties 관련 정리.md",
-    "Spring/정리해야할 내용/Autowired 사용 방법과 특징 정리.md",
     "Spring/test",
     "Spring/Spring Data",
     "Spring/정리해야할 내용",
@@ -201,7 +238,6 @@
     "독서/개발서적",
     "독서",
     "img/Pasted image 20231110202908.png",
-    "개발/특강",
     "img/Pasted image 20231110202847.png",
     "img/Pasted image 20231109165922.png",
     "img/Pasted image 20231109172611.png",
