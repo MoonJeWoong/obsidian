@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/String vs StringBuilder vs StringBuffer.md",
+                "file": "TIL/2024/2024-02-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/String vs StringBuilder vs StringBuffer.md",
+                "file": "TIL/2024/2024-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/String vs StringBuilder vs StringBuffer.md",
+                "file": "TIL/2024/2024-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/String vs StringBuilder vs StringBuffer.md"
+                "file": "TIL/2024/2024-02-09.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "4ffdaa12e476afc6",
   "lastOpenFiles": [
-    "Keyword Kanban.md",
     "Java/String vs StringBuilder vs StringBuffer.md",
+    "TIL/2024/2024-02-09.md",
+    "Keyword Kanban.md",
     "JPA/Annotations/@Enumerated.md",
     "Spring/Spring Data/Spring Data Rest.md",
     "Spring/정리해야할 내용/Autowired 사용 방법과 특징 정리.md",
@@ -217,7 +218,6 @@
     "web",
     "개발/특강/원티드 아키텍처 특강 1.md",
     "TIL/2024/2024-02-03.md",
-    "TIL/2024/2024-02-02.md",
     "Spring/test",
     "Spring/Spring Data",
     "Spring/정리해야할 내용",
