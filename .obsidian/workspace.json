@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-02-10.md",
+                "file": "TIL/2024/2024-02-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-02-10.md",
+                "file": "TIL/2024/2024-02-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-02-10.md",
+                "file": "TIL/2024/2024-02-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-02-10.md"
+                "file": "TIL/2024/2024-02-11.md"
               }
             }
           },
@@ -190,8 +190,10 @@
   },
   "active": "4ffdaa12e476afc6",
   "lastOpenFiles": [
-    "코딩테스트/유형/비트마스킹.md",
+    "JPA/정리해야할 내용/테스트 시 entityManager와 testEntityManager 차이.md",
+    "TIL/2024/2024-02-11.md",
     "TIL/2024/2024-02-10.md",
+    "코딩테스트/유형/비트마스킹.md",
     "TIL/2024/2024-02-09.md",
     "Java/String vs StringBuilder vs StringBuffer.md",
     "Keyword Kanban.md",
@@ -215,8 +217,6 @@
     "OOP/객체지향 프로그래밍.md",
     "우테코/쿼리 분석.md",
     "TIL/2024/2024-02-05.md",
-    "TIL/2024/2024-02-04.md",
-    "web/html semantic tags.md",
     "web",
     "Spring/test",
     "Spring/Spring Data",
