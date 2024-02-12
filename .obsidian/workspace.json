@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-02-11.md",
+                "file": "TIL/2024/2024-02-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "able",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-02-11.md",
+                "file": "TIL/2024/2024-02-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-02-11.md",
+                "file": "TIL/2024/2024-02-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-02-11.md"
+                "file": "TIL/2024/2024-02-12.md"
               }
             }
           },
@@ -190,8 +190,17 @@
   },
   "active": "4ffdaa12e476afc6",
   "lastOpenFiles": [
-    "JPA/정리해야할 내용/테스트 시 entityManager와 testEntityManager 차이.md",
+    "CS/Network/개념정리/HTTP Method.md",
+    "TIL/2024/2024-02-12.md",
+    "CS/Network/개념정리/HTTP 와 HTTPS.md",
+    "CS/Network/개념정리/HTTP 의 GET 과 POST 비교.md",
+    "CS/Network/개념정리/TCP 3-way-handshake, 4-way-handshake.md",
+    "Spring/정리해야할 내용/@ModelAttribute 와 @RequestParam 사용 차이.md",
+    "JPA/정리해야할 내용/변경감지와 병합(merge).md",
+    "Spring/정리해야할 내용/@Valid 와 @Validated 어노테이션의 차이.md",
+    "Spring/정리해야할 내용/thymeleaf 관련 내용.md",
     "TIL/2024/2024-02-11.md",
+    "JPA/정리해야할 내용/테스트 시 entityManager와 testEntityManager 차이.md",
     "TIL/2024/2024-02-10.md",
     "코딩테스트/유형/비트마스킹.md",
     "TIL/2024/2024-02-09.md",
@@ -208,15 +217,6 @@
     "TIL/2024/2024-02-08.md",
     "JPA/Annotations/Annotations 정리.md",
     "JPA/Annotations",
-    "코딩테스트/유형/알고리즘 복잡도 계산 +완전 탐색.md",
-    "코딩테스트/유형/재귀.md",
-    "TIL/2024/2024-02-07.md",
-    "Spring/정리해야할 내용/스프링에서의 통합 테스트 (mockMvc).md",
-    "TIL/2024/2024-02-06.md",
-    "OOP/OOP 질문 정리.md",
-    "OOP/객체지향 프로그래밍.md",
-    "우테코/쿼리 분석.md",
-    "TIL/2024/2024-02-05.md",
     "web",
     "Spring/test",
     "Spring/Spring Data",
