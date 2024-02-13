@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA/JPA 기초 강의/JPA 기초 - 페치 조인 기본.md",
+                "file": "코딩테스트/유형/DFS, BFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-02-13.md",
+                "file": "코딩테스트/유형/DFS, BFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-02-13.md",
+                "file": "코딩테스트/유형/DFS, BFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-02-13.md"
+                "file": "코딩테스트/유형/DFS, BFS.md"
               }
             }
           },
@@ -200,16 +200,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "691d5c9713e7f128",
+  "active": "4ffdaa12e476afc6",
   "lastOpenFiles": [
-    "JPA/정리해야할 내용/컬렉션 + 페이징 최적화해서 적용하기.md",
     "TIL/2024/2024-02-13.md",
-    "JPA/JPA 기초 강의/JPA 기초 - 페치 조인의 한계.md",
+    "코딩테스트/유형/DFS, BFS.md",
+    "TIL/2024/2024-02-06.md",
+    "TIL/2024/2024-02-07.md",
+    "TIL/2024/2024-02-08.md",
+    "TIL/2024/2024-02-09.md",
+    "TIL/2024/2024-02-10.md",
+    "TIL/2024/2024-02-11.md",
+    "TIL/2024/2024-02-12.md",
+    "JPA/JPA 기초 강의/JPA 기초 - 페치 조인 기본.md",
     "Pasted image 20240212222733.png",
     "Pasted image 20240212222642.png",
     "Pasted image 20240212222612.png",
-    "JPA/JPA 기초 강의/JPA 기초 - 페치 조인 기본.md",
-    "TIL/2024/2024-02-12.md",
+    "JPA/정리해야할 내용/컬렉션 + 페이징 최적화해서 적용하기.md",
+    "JPA/JPA 기초 강의/JPA 기초 - 페치 조인의 한계.md",
     "JPA/JPA 기초 강의/JPA  기초 - 값 타입 (@Embedded).md",
     "JPA/JPA 기초 강의",
     "JPA/무제 파일.md",
@@ -221,17 +228,10 @@
     "JPA/정리해야할 내용/변경감지와 병합(merge).md",
     "Spring/정리해야할 내용/@Valid 와 @Validated 어노테이션의 차이.md",
     "Spring/정리해야할 내용/thymeleaf 관련 내용.md",
-    "TIL/2024/2024-02-11.md",
     "JPA/정리해야할 내용/테스트 시 entityManager와 testEntityManager 차이.md",
-    "TIL/2024/2024-02-10.md",
     "코딩테스트/유형/비트마스킹.md",
-    "TIL/2024/2024-02-09.md",
     "Java/String vs StringBuilder vs StringBuffer.md",
     "Keyword Kanban.md",
-    "JPA/Annotations/@Enumerated.md",
-    "Spring/Spring Data/Spring Data Rest.md",
-    "Spring/정리해야할 내용/Autowired 사용 방법과 특징 정리.md",
-    "JPA/정리해야할 내용/상속관계 매핑.md",
     "JPA/Annotations",
     "web",
     "Spring/test",
