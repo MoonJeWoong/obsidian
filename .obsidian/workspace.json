@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DB/SQL/SQL 개념.md",
+                "file": "JPA/정리해야할 내용/@MappedSuperClass.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-02-14.md",
+                "file": "TIL/2024/2024-02-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DB/SQL/SQL 개념.md",
+                "file": "TIL/2024/2024-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DB/SQL/SQL 개념.md",
+                "file": "TIL/2024/2024-02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DB/SQL/SQL 개념.md"
+                "file": "TIL/2024/2024-02-15.md"
               }
             }
           },
@@ -175,12 +176,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "450ca267575f3d28",
+  "active": "4ffdaa12e476afc6",
   "lastOpenFiles": [
-    "CS/DB/SQL/조회 관련 SQL 내용 정리.md",
-    "CS/DB/SQL/SQL 개념.md",
-    "CS/DB/SQL",
+    "프로젝트/하루스터디/프로젝트 명세.md",
+    "TIL/2024/2024-02-15.md",
     "TIL/2024/2024-02-14.md",
+    "JPA/정리해야할 내용/@MappedSuperClass.md",
+    "프로젝트/디스코드 프로젝트",
+    "프로젝트/하루스터디",
+    "개발/특강/원티드 아키텍처 특강 3.md",
+    "프로젝트",
+    "개발/특강/원티드 아키텍처 특강 2.md",
+    "개발/특강/원티드 아키텍처 특강 1.md",
+    "개발/하루스터디 기능 정리.md",
+    "개발/하루스터디 서비스 마이그레이션.md",
+    "CS/DB/SQL/SQL 개념 + DB, 테이블 정의.md",
+    "CS/DB/SQL/조회 관련 SQL 내용 정리.md",
+    "CS/DB/SQL",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "CS/DB/ACID.md",
     "CS/DB/트랜잭션.md",
@@ -199,23 +211,12 @@
     "Pasted image 20240212222733.png",
     "Pasted image 20240212222642.png",
     "Pasted image 20240212222612.png",
-    "JPA/정리해야할 내용/컬렉션 + 페이징 최적화해서 적용하기.md",
-    "JPA/JPA 기초 강의/JPA 기초 - 페치 조인의 한계.md",
-    "JPA/JPA 기초 강의/JPA  기초 - 값 타입 (@Embedded).md",
     "JPA/JPA 기초 강의",
-    "JPA/무제 파일.md",
-    "CS/Network/개념정리/HTTP Method.md",
-    "CS/Network/개념정리/HTTP 와 HTTPS.md",
-    "CS/Network/개념정리/HTTP 의 GET 과 POST 비교.md",
-    "CS/Network/개념정리/TCP 3-way-handshake, 4-way-handshake.md",
     "JPA/Annotations",
     "web",
     "Spring/test",
     "Spring/Spring Data",
     "Spring/정리해야할 내용",
-    "JPA/정리해야할 내용",
-    "독서/개발서적/모던 자바 인 액션",
-    "TIL/2024",
     "img/Pasted image 20231110202908.png",
     "img/Pasted image 20231110202847.png",
     "img/Pasted image 20231109165922.png",
