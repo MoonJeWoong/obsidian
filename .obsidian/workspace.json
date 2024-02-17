@@ -13,38 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/모르는 용어 노트.md",
+                "file": "TIL/2024/2024-02-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "957c4f0275674af5",
+            "id": "e464f83de893b90a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/2024/2024-02-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1618870accfaadbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/2024/2024-02-16.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-02-16.md",
+                "file": "TIL/2024/2024-02-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-02-16.md",
+                "file": "TIL/2024/2024-02-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-02-16.md"
+                "file": "TIL/2024/2024-02-17.md"
               }
             }
           },
@@ -190,11 +172,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1618870accfaadbf",
+  "active": "450ca267575f3d28",
   "lastOpenFiles": [
+    "프로젝트/하루스터디/프로젝트 명세.md",
+    "TIL/2024/2024-02-17.md",
+    "CS/DB/SQL/SQL 개념 + DB, 테이블 정의.md",
+    "CS/DB/SQL/조회 관련 SQL 내용 정리.md",
+    "Java/문자열 Concat 연산은 어떨 때 가장 최적화된 성능으로 동작하는가.md",
     "개발/모르는 용어 노트.md",
     "TIL/2024/2024-02-16.md",
-    "Java/문자열 Concat 연산은 어떨 때 가장 최적화된 성능으로 동작하는가.md",
     "Java/String vs StringBuilder vs StringBuffer.md",
     "JPA/정리해야할 내용/@MappedSuperClass.md",
     "TIL/2024/2024-02-15.md",
@@ -203,7 +189,6 @@
     "OOP/OOP 질문 정리.md",
     "Java/면접 질문 정리 모음.md",
     "CS/DB/DB Connection Pool.md",
-    "프로젝트/하루스터디/프로젝트 명세.md",
     "TIL/2024/2024-02-14.md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
@@ -213,15 +198,12 @@
     "개발/특강/원티드 아키텍처 특강 1.md",
     "개발/하루스터디 기능 정리.md",
     "개발/하루스터디 서비스 마이그레이션.md",
-    "CS/DB/SQL/SQL 개념 + DB, 테이블 정의.md",
-    "CS/DB/SQL/조회 관련 SQL 내용 정리.md",
     "CS/DB/SQL",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "CS/DB/ACID.md",
     "CS/DB/트랜잭션.md",
     "CS/DB/인덱스.md",
     "JPA/Annotations/Annotations 정리.md",
-    "코딩테스트/유형/DFS, BFS.md",
     "Pasted image 20240212222733.png",
     "Pasted image 20240212222642.png",
     "Pasted image 20240212222612.png",
