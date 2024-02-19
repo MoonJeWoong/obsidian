@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "450ca267575f3d28",
+            "id": "e464f83de893b90a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/스레드, 멀티스레드.md",
+                "file": "CS/DB/인덱스.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e464f83de893b90a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/스레드, 멀티스레드.md",
+                "file": "CS/DB/인덱스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/스레드, 멀티스레드.md",
+                "file": "CS/DB/인덱스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/스레드, 멀티스레드.md"
+                "file": "CS/DB/인덱스.md"
               }
             }
           },
@@ -172,10 +164,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "450ca267575f3d28",
+  "active": "e464f83de893b90a",
   "lastOpenFiles": [
-    "TIL/2024/2024-02-18.md",
+    "CS/운영체제/개념정리/CPU 스케쥴링 알고리즘.md",
+    "CS/운영체제/개념정리/스케쥴러.md",
+    "CS/운영체제/운영체제 개요.md",
+    "CS/Network/개념정리/TCP와 UDP의 비교.md",
+    "TIL/2024/2024-02-19.md",
     "Java/스레드, 멀티스레드.md",
+    "TIL/2024/2024-02-18.md",
     "프로젝트/디스코드 프로젝트/주제 선정.md",
     "프로젝트/하루스터디/프로젝트 명세.md",
     "TIL/2024/2024-02-17.md",
@@ -198,12 +195,7 @@
     "개발/특강/원티드 아키텍처 특강 3.md",
     "프로젝트",
     "개발/특강/원티드 아키텍처 특강 2.md",
-    "개발/특강/원티드 아키텍처 특강 1.md",
-    "개발/하루스터디 기능 정리.md",
-    "개발/하루스터디 서비스 마이그레이션.md",
     "CS/DB/SQL",
-    "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
-    "CS/DB/ACID.md",
     "Pasted image 20240212222733.png",
     "Pasted image 20240212222642.png",
     "Pasted image 20240212222612.png",
