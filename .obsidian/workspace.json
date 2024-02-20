@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/스레드풀.md",
+                "file": "CS/DB/ACID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/스레드풀.md",
+                "file": "CS/DB/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/스레드풀.md",
+                "file": "CS/DB/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/스레드풀.md"
+                "file": "CS/DB/ACID.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "e464f83de893b90a",
   "lastOpenFiles": [
-    "Java/스레드, 멀티스레드.md",
-    "Java/스레드풀.md",
-    "TIL/2024/2024-02-20.md",
     "CS/DB/트랜잭션.md",
+    "TIL/2024/2024-02-20.md",
+    "Java/스레드풀.md",
+    "Java/스레드, 멀티스레드.md",
     "CS/DB/ACID.md",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "CS/DB/DB Connection Pool.md",
