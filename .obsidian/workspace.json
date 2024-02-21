@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DB/ACID.md",
+                "file": "TIL/2024/2024-02-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DB/ACID.md",
+                "file": "TIL/2024/2024-02-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DB/ACID.md",
+                "file": "TIL/2024/2024-02-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DB/ACID.md"
+                "file": "TIL/2024/2024-02-21.md"
               }
             }
           },
@@ -166,11 +166,14 @@
   },
   "active": "e464f83de893b90a",
   "lastOpenFiles": [
+    "Java/Comparable 인터페이스.md",
+    "TIL/2024/2024-02-21.md",
+    "코딩테스트/유형/다익스트라.md",
+    "CS/DB/ACID.md",
     "CS/DB/트랜잭션.md",
     "TIL/2024/2024-02-20.md",
     "Java/스레드풀.md",
     "Java/스레드, 멀티스레드.md",
-    "CS/DB/ACID.md",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "CS/DB/DB Connection Pool.md",
     "프로젝트/하루스터디/프로젝트 명세.md",
@@ -189,9 +192,6 @@
     "개발/모르는 용어 노트.md",
     "TIL/2024/2024-02-16.md",
     "Java/String vs StringBuilder vs StringBuffer.md",
-    "JPA/정리해야할 내용/@MappedSuperClass.md",
-    "TIL/2024/2024-02-15.md",
-    "독서/개발서적/스프링 입문을 위한 자바 객체지향의 원리와 이해.md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
     "프로젝트",
