@@ -27,7 +27,7 @@ kanban-plugin: basic
 ## DB
 
 **Complete**
-- [x] [[트랜잭션]]
+- [x] [[트랜잭션 격리 수준]]
 - [x] [[인덱스]] ^zizlff
 
 

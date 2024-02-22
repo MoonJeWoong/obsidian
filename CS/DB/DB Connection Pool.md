@@ -8,17 +8,81 @@ WAS에서 클라이언트로부터 요청을 받아 처리하는 과정에서 DB
 개발 과정에서 DB Connection Pool과 DB 서버 각각마다 커넥션 관련된 설정들이 존재해서 이를 적절하게 잘 설정해주는 것이 중요하다.
 
 DBCP 관련 설정 (Hikari CP)
+- maximumPoolSize
+	- pool이 가질 수 있는 최대 커넥션의 수
+	- idle과 active(in-use) 커넥션을 모두 합쳐서 계산되는 값의 최대 값을 결정한다.
+
+- minimumIdle
+	- pool에서 유지하는 최소한의 idle 커넥션의 수
+	- 만약, idle 커넥션의 수가 minimumIdle 보다 작고, 전체 커넥션의 수도 maximumPoolSize 보다 작다면 신속하게 추가로 커넥션을 생성한다.
+	- Hikari CP에서 권장하는 minimumIdle의 기본 값은 maximumPoolSize와 동일하다. (= 즉 pool size를 유동적으로 변하게 두지 말고 고정하라는 얘기)
+
+- maxLifeTime
+	- pool에서 커넥션의 최대 수명
+	- maxLifeTime을 넘기면 idle일 경우 pool에서 바로 제거, 커넥션이 active 상태일 경우에는 pool에 반환된 직후 제거
+	- 커넥션이 active 상태라면 수명이 maxLifeTime 값을 넘겨도 제거되지 않는다는 점을 유의하자.
+	- 그래서 항상 pool로 커넥션이 잘 반환되는지를 잘 확인해야 한다. (제 때에 반납되지 못하는 커넥션들은 커넥션 누수 현상이 발생하는 원인이 되기도한다.)
+	- db의 connection time limit보다 몇 초 정도 짧게 설정해야 한다.
+		- MySQL을 사용하는 경우는 wait_timeout보다 몇 초 정도 더 짧게 설정해야 한다는 것이다.
+		- 만약 60초라는 같은 값으로 설정해둔 경우 1초 남았을 때 서버에서 요청이 발생해 네트워크를 타는 도중 DB 서버에 도착하기 전에 wait_timeout 설정 값으로 인해 커넥션이 종료되어 버리면 요청이 누락될 수 있게 되기 때문이다.
+
+- connectionTimeout
+	- pool에서 커넥션을 할당 받기 위해 대기하는 최대 시간
+	- 요청이 커넥션을 할당 받기 위해 대기하다가 connectionTimeout을 넘기면 예외가 발생하도록 처리해준다.
+
 
 MySQL 서버 커넥션 관련 설정
+- max_connections
+	- 클라이언트와 맺을 수 있는 최대 커넥션의 개수
+	- DB 서버가 하나 이상의 웹서버와 통신하는 경우도 많은데 이 때 모든 서버에서 맺게될 커넥션의 개수를 고려해서 max_connections를 설정해줘야 한다.
+
+- wait_timeout
+	- connection이 inactive할 때 다시 요청이 오기까지 얼마 정도의 시간을 대기한 뒤에 close할 것인지 결정
+	- 시간 내에 요청이 도착하면 다시 처음으로 초기화한다.
+	- 웹서버 측에서 커넥션을 맺고나서 정상적으로 반환을 하지 않거나, 버그로 인해 비정상적인 커넥션 종료가 발생한 경우, 혹은 네트워크 단절 등의 문제로 인해 DB 서버 입장에서 커넥션이 비정상인 상태인지 판단할 수 없는 경우에 활용되는 설정 값이다.
+
+
+
+# 커넥션 풀 설정값 튜닝
 
 
 커넥션 풀 설정값 튜닝 => 부하테스트를 진행하면서 여러가지 병목지점들을 함께 고려해야한다.
 
+만약 고가용성을 위해 DB 서버도 레플리케이션되어 운영되고 있다면 이 또한 고려를 하면서 튜닝이 진행되어야 한다.
+
+![](https://i.imgur.com/j05THxs.png)
+
+
+적절한 connection 수를 찾기 위한 과정
+- 모니터링 환경 구축 (서버 리소스, 서버 스레드 수, DBCP)
+- 백엔드 시스템 부하 테스트 진행
+![](https://i.imgur.com/lcKszX8.png)
+- RPS와 ART 그래프가 위와 같은 형태로 그려질텐데 이 때 plain한 지점으로 진입하는 구간에서 서버 지표들이 어떻게 달라지는 지를 확인해서 튜닝 지점을 파악한다.
+
+
 부하테스트
-- Response Per Second : 초당 처리하는 응답 수
+- Request Per Second : 초당 처리하는 응답 수
 - Average Response Time : 서버에서 응답이 돌아오는데까지 걸리는 평균 시간
 
+
+
 부하테스트 진행 과정에서 함께 고려해야 될 사항들
+
+- 백엔드 서버, DB 서버의 CPU, MEM 등등 리소스 사용률을 확인한다.
+	- 백엔드 서버의 CPU, MEM 사용량이 기준치 이상으로 상승한다면 이는 서버 증설이 필요하다고 판단할 수 있는 근거가 된다.
+	- 만약 DB 서버의 CPU와 MEM 사용량이 기준치 이상으로 상승한다면 다음과 같은 해결책들을 고려할 수 있는 근거가 된다.
+		- 조회 쿼리가 많이 발생해서 병목이 발생하는 것이라면 읽기 전용 Replication DB 서버를 늘려준다.
+		- 혹은 백엔드 서버와 DB 서버 사이에 캐시 레이어를 도입해서 DB 서버가 직접적으로 받는 요청 수를 줄여줄 수도 있다.
+		- 샤딩을 고려해볼 수도 있다.
+
+그런데 만약 plane한 구간 근처에서 백엔드, DB 서버 모두 CPU, MEM 사용률이 안정적으로 유지가 된다면, 다른 고민들을 이어서 해볼 수 있다.
+
+- thread per request 모델을 백엔드 서버가 채택하고 있다면 active thread 수를 확인해본다.
+	- 만약 Plane 구간 근처에서 스레드 풀의 모든 스레드 수를 사용하고 있다면, 스레드 풀의 스레드 수가 너무 적어서 병목이 발생하는 것일 수 있다.
+- DBCP의 active connection 수를 확인한다.
+
+마지막에는 사용할 백엔드 서버 수를 고려하여 DBCP의 maxPoolSize를 결정한다.
+
 
 WAS의 스레드 풀의 사용 현황
 WAS 서버의 CPU, MEM 사용량
@@ -30,3 +94,4 @@ WAS 서버를 다중화함에 따라서 DB Connection Pool의 size를 정할 때
 ---
 
 https://www.youtube.com/watch?v=zowzVqx3MQ4&t=1163s
+[Commons DBCP 이해하기](https://d2.naver.com/helloworld/5102792)

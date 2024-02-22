@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-02-21.md",
+                "file": "TIL/2024/2024-02-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-02-21.md",
+                "file": "TIL/2024/2024-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-02-21.md",
+                "file": "TIL/2024/2024-02-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-02-21.md"
+                "file": "TIL/2024/2024-02-22.md"
               }
             }
           },
@@ -166,16 +166,22 @@
   },
   "active": "e464f83de893b90a",
   "lastOpenFiles": [
-    "Java/Comparable 인터페이스.md",
-    "TIL/2024/2024-02-21.md",
+    "CS/DB/트랜잭션 격리 수준.md",
+    "TIL/2024/2024-02-22.md",
+    "CS/DB/트랜잭션 전파.md",
+    "CS/DB/DB Connection Pool.md",
+    "코딩테스트/유형/Union & Find.md",
+    "코딩테스트/유형/DFS, BFS.md",
     "코딩테스트/유형/다익스트라.md",
+    "Java/우선순위 큐 (Priority Queue).md",
+    "Java/Monitor & Intrinsic lock.md",
+    "TIL/2024/2024-02-21.md",
+    "Java/Comparable 인터페이스.md",
     "CS/DB/ACID.md",
-    "CS/DB/트랜잭션.md",
     "TIL/2024/2024-02-20.md",
     "Java/스레드풀.md",
     "Java/스레드, 멀티스레드.md",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
-    "CS/DB/DB Connection Pool.md",
     "프로젝트/하루스터디/프로젝트 명세.md",
     "프로젝트/디스코드 프로젝트/주제 선정.md",
     "CS/운영체제/개념정리/CPU 스케쥴링 알고리즘.md",
@@ -186,12 +192,6 @@
     "TIL/2024/2024-02-19.md",
     "TIL/2024/2024-02-18.md",
     "TIL/2024/2024-02-17.md",
-    "CS/DB/SQL/SQL 개념 + DB, 테이블 정의.md",
-    "CS/DB/SQL/조회 관련 SQL 내용 정리.md",
-    "Java/문자열 Concat 연산은 어떨 때 가장 최적화된 성능으로 동작하는가.md",
-    "개발/모르는 용어 노트.md",
-    "TIL/2024/2024-02-16.md",
-    "Java/String vs StringBuilder vs StringBuffer.md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
     "프로젝트",
