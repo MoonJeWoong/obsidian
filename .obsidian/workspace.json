@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-02-22.md",
+                "file": "프로젝트/디스코드 프로젝트/기획 단계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c8ee92d49526e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트/디스코드 프로젝트/기획 단계.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-02-22.md",
+                "file": "프로젝트/디스코드 프로젝트/기획 단계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-02-22.md",
+                "file": "프로젝트/디스코드 프로젝트/기획 단계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-02-22.md"
+                "file": "프로젝트/디스코드 프로젝트/기획 단계.md"
               }
             }
           },
@@ -166,8 +179,11 @@
   },
   "active": "e464f83de893b90a",
   "lastOpenFiles": [
-    "CS/DB/트랜잭션 격리 수준.md",
     "TIL/2024/2024-02-22.md",
+    "프로젝트/디스코드 프로젝트/기획 단계.md",
+    "CS/DB/MVCC.md",
+    "CS/DB/트랜잭션 격리 수준.md",
+    "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "CS/DB/트랜잭션 전파.md",
     "CS/DB/DB Connection Pool.md",
     "코딩테스트/유형/Union & Find.md",
@@ -181,9 +197,7 @@
     "TIL/2024/2024-02-20.md",
     "Java/스레드풀.md",
     "Java/스레드, 멀티스레드.md",
-    "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "프로젝트/하루스터디/프로젝트 명세.md",
-    "프로젝트/디스코드 프로젝트/주제 선정.md",
     "CS/운영체제/개념정리/CPU 스케쥴링 알고리즘.md",
     "CS/DB/인덱스.md",
     "CS/운영체제/개념정리/스케쥴러.md",
@@ -191,7 +205,6 @@
     "CS/Network/개념정리/TCP와 UDP의 비교.md",
     "TIL/2024/2024-02-19.md",
     "TIL/2024/2024-02-18.md",
-    "TIL/2024/2024-02-17.md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
     "프로젝트",
