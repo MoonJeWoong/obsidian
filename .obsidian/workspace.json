@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-02-23.md",
+                "file": "CS/DB/동시성 제어 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-02-23.md",
+                "file": "CS/DB/동시성 제어 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-02-23.md",
+                "file": "CS/DB/동시성 제어 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-02-23.md"
+                "file": "CS/DB/동시성 제어 기초.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "e464f83de893b90a",
   "lastOpenFiles": [
-    "코딩테스트/유형/Union & Find.md",
     "TIL/2024/2024-02-23.md",
+    "CS/DB/동시성 제어 기초.md",
+    "코딩테스트/유형/Union & Find.md",
     "프로젝트/디스코드 프로젝트/기획 단계.md",
     "TIL/2024/2024-02-22.md",
     "CS/DB/MVCC.md",
@@ -203,7 +204,6 @@
     "CS/운영체제/개념정리/스케쥴러.md",
     "CS/운영체제/운영체제 개요.md",
     "CS/Network/개념정리/TCP와 UDP의 비교.md",
-    "TIL/2024/2024-02-19.md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
     "프로젝트",
