@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/디스코드 프로젝트/기획 단계.md",
+                "file": "TIL/2024/2024-02-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/디스코드 프로젝트/기획 단계.md",
+                "file": "TIL/2024/2024-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/디스코드 프로젝트/기획 단계.md",
+                "file": "TIL/2024/2024-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/디스코드 프로젝트/기획 단계.md"
+                "file": "TIL/2024/2024-02-23.md"
               }
             }
           },
@@ -179,14 +178,15 @@
   },
   "active": "e464f83de893b90a",
   "lastOpenFiles": [
-    "TIL/2024/2024-02-22.md",
+    "코딩테스트/유형/Union & Find.md",
+    "TIL/2024/2024-02-23.md",
     "프로젝트/디스코드 프로젝트/기획 단계.md",
+    "TIL/2024/2024-02-22.md",
     "CS/DB/MVCC.md",
     "CS/DB/트랜잭션 격리 수준.md",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "CS/DB/트랜잭션 전파.md",
     "CS/DB/DB Connection Pool.md",
-    "코딩테스트/유형/Union & Find.md",
     "코딩테스트/유형/DFS, BFS.md",
     "코딩테스트/유형/다익스트라.md",
     "Java/우선순위 큐 (Priority Queue).md",
@@ -204,7 +204,6 @@
     "CS/운영체제/운영체제 개요.md",
     "CS/Network/개념정리/TCP와 UDP의 비교.md",
     "TIL/2024/2024-02-19.md",
-    "TIL/2024/2024-02-18.md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
     "프로젝트",
