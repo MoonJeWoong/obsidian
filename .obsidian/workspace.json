@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DB/동시성 제어 기초.md",
+                "file": "TIL/2024/2024-02-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DB/DB 면접 질답 정리.md",
+                "file": "CS/DB/인덱스.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3328d7c3262f604",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DB/DB 면접 질답 정리.md",
+                "file": "TIL/2024/2024-02-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DB/DB 면접 질답 정리.md",
+                "file": "TIL/2024/2024-02-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DB/DB 면접 질답 정리.md"
+                "file": "TIL/2024/2024-02-28.md"
               }
             }
           },
@@ -177,16 +177,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c8ee92d49526e5f",
+  "active": "e464f83de893b90a",
   "lastOpenFiles": [
+    "CS/DB/DB 면접 질답 정리.md",
+    "TIL/2024/2024-02-28.md",
+    "CS/DB/인덱스.md",
+    "TIL/2024/2024-02-27.md",
+    "CS/DB/동시성 제어 기초.md",
     "프로젝트/하루스터디/프로젝트 명세.md",
     "프로젝트/디스코드 프로젝트/기획 단계.md",
-    "CS/DB/동시성 제어 기초.md",
-    "CS/DB/DB 면접 질답 정리.md",
     "CS/운영체제/운영체제 개요.md",
-    "TIL/2024/2024-02-27.md",
     "TIL/2024/2024-02-26.md",
-    "CS/DB/인덱스.md",
     "CS/DB/정규화.md",
     "TIL/2024/2024-02-25.md",
     "코딩테스트/프로그래머스 SQL 문제 정리.md",
@@ -204,7 +205,6 @@
     "코딩테스트/유형/DFS, BFS.md",
     "코딩테스트/유형/다익스트라.md",
     "Java/우선순위 큐 (Priority Queue).md",
-    "Java/Monitor & Intrinsic lock.md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
     "프로젝트",
