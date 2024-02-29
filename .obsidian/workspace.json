@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DB/DB 면접 질답 정리.md",
+                "file": "CS/DB/동시성 제어 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DB/인덱스.md",
+                "file": "TIL/2024/2024-02-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DB/DB 면접 질답 정리.md",
+                "file": "TIL/2024/2024-02-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DB/DB 면접 질답 정리.md",
+                "file": "TIL/2024/2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DB/DB 면접 질답 정리.md"
+                "file": "TIL/2024/2024-02-29.md"
               }
             }
           },
@@ -176,21 +177,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e464f83de893b90a",
+  "active": "6c8ee92d49526e5f",
   "lastOpenFiles": [
-    "CS/DB/인덱스.md",
     "CS/DB/DB 면접 질답 정리.md",
-    "CS/DB/MVCC.md",
-    "CS/DB/트랜잭션 격리 수준.md",
-    "TIL/2024/2024-02-28.md",
-    "CS/DB/트랜잭션 전파.md",
-    "TIL/2024/2024-02-27.md",
+    "TIL/2024/2024-02-29.md",
     "CS/DB/동시성 제어 기초.md",
+    "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
+    "CS/DB/트랜잭션 격리 수준.md",
+    "CS/DB/MVCC.md",
+    "CS/DB/DB Connection Pool.md",
+    "CS/DB/트랜잭션 전파.md",
+    "CS/DB/ACID.md",
+    "CS/DB/인덱스.md",
+    "CS/DB/정규화.md",
+    "TIL/2024/2024-02-28.md",
+    "TIL/2024/2024-02-27.md",
     "프로젝트/하루스터디/프로젝트 명세.md",
     "프로젝트/디스코드 프로젝트/기획 단계.md",
     "CS/운영체제/운영체제 개요.md",
     "TIL/2024/2024-02-26.md",
-    "CS/DB/정규화.md",
     "TIL/2024/2024-02-25.md",
     "코딩테스트/프로그래머스 SQL 문제 정리.md",
     "코딩테스트/코테 오답노트.md",
@@ -199,11 +204,7 @@
     "TIL/2024/2024-02-23.md",
     "코딩테스트/유형/Union & Find.md",
     "TIL/2024/2024-02-22.md",
-    "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
-    "CS/DB/DB Connection Pool.md",
     "코딩테스트/유형/DFS, BFS.md",
-    "코딩테스트/유형/다익스트라.md",
-    "Java/우선순위 큐 (Priority Queue).md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
     "프로젝트",
