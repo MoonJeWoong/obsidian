@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-03-03.md",
+                "file": "TIL/2024/2024-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-03-03.md",
+                "file": "TIL/2024/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-03-03.md",
+                "file": "TIL/2024/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-03-03.md"
+                "file": "TIL/2024/2024-03-04.md"
               }
             }
           },
@@ -166,8 +166,12 @@
   },
   "active": "6c8ee92d49526e5f",
   "lastOpenFiles": [
-    "JPA/정리해야할 내용/컬렉션 + 페이징 최적화해서 적용하기.md",
     "TIL/2024/2024-03-03.md",
+    "TIL/2024/2024-03-04.md",
+    "프로젝트/하루스터디/프로젝트 명세.md",
+    "Templates/당분간 계획 목표.md",
+    "web/html semantic tags.md",
+    "JPA/정리해야할 내용/컬렉션 + 페이징 최적화해서 적용하기.md",
     "TIL/2024/2024-02-29.md",
     "독서/기타서적",
     "독서/기타서적/IT에 몸담은 이들을 위한 지적 생산 기술.md",
@@ -183,16 +187,12 @@
     "CS/DB/정규화.md",
     "TIL/2024/2024-02-28.md",
     "TIL/2024/2024-02-27.md",
-    "프로젝트/하루스터디/프로젝트 명세.md",
     "프로젝트/디스코드 프로젝트/기획 단계.md",
     "CS/운영체제/운영체제 개요.md",
     "TIL/2024/2024-02-26.md",
     "TIL/2024/2024-02-25.md",
     "코딩테스트/프로그래머스 SQL 문제 정리.md",
     "코딩테스트/코테 오답노트.md",
-    "코딩테스트/코딩테스트 대비 코드 노트.md",
-    "TIL/2024/2024-02-24.md",
-    "TIL/2024/2024-02-23.md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
     "프로젝트",
