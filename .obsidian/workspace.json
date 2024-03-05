@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-03-04.md",
+                "file": "Spring/면접 질문/Spring vs Spring Boot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76f45e724ca6cd33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/2024/2024-03-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-03-04.md",
+                "file": "TIL/2024/2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-03-04.md",
+                "file": "TIL/2024/2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-03-04.md"
+                "file": "TIL/2024/2024-03-05.md"
               }
             }
           },
@@ -164,10 +177,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c8ee92d49526e5f",
+  "active": "76f45e724ca6cd33",
   "lastOpenFiles": [
-    "TIL/2024/2024-03-03.md",
+    "Spring/인프런 강의/Spring Data JPA/페이지네이션.md",
+    "TIL/2024/2024-03-05.md",
+    "Spring/인프런 강의/Spring Data JPA",
+    "Spring/정리해야할 내용/Spring Properties 관련 정리.md",
+    "Spring/인프런 강의",
+    "Spring/면접 질문/Spring 면접 질문 정리.md",
+    "Spring/면접 질문/Spring vs Spring Boot.md",
+    "CS/DB/DB 면접 질답 정리.md",
+    "Spring/면접 질문/무제 파일 1.md",
+    "Spring/면접 질문",
+    "Spring/Application Context Caching.md",
+    "Spring/AOP.md",
+    "Spring/인프런 강의/스프링 핵심원리 기본편/객체 지향 원리 적용.md",
+    "Spring/인프런 강의/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
+    "Spring/인프런 강의/스프링 핵심원리 기본편/컴포넌트 스캔.md",
+    "Spring/인프런 강의/스프링 핵심원리 기본편/의존관계 자동 주입.md",
     "TIL/2024/2024-03-04.md",
+    "TIL/2024/2024-03-03.md",
     "프로젝트/하루스터디/프로젝트 명세.md",
     "Templates/당분간 계획 목표.md",
     "web/html semantic tags.md",
@@ -175,24 +204,11 @@
     "TIL/2024/2024-02-29.md",
     "독서/기타서적",
     "독서/기타서적/IT에 몸담은 이들을 위한 지적 생산 기술.md",
-    "CS/DB/DB 면접 질답 정리.md",
     "CS/DB/동시성 제어 기초.md",
     "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
     "CS/DB/트랜잭션 격리 수준.md",
     "CS/DB/MVCC.md",
     "CS/DB/DB Connection Pool.md",
-    "CS/DB/트랜잭션 전파.md",
-    "CS/DB/ACID.md",
-    "CS/DB/인덱스.md",
-    "CS/DB/정규화.md",
-    "TIL/2024/2024-02-28.md",
-    "TIL/2024/2024-02-27.md",
-    "프로젝트/디스코드 프로젝트/기획 단계.md",
-    "CS/운영체제/운영체제 개요.md",
-    "TIL/2024/2024-02-26.md",
-    "TIL/2024/2024-02-25.md",
-    "코딩테스트/프로그래머스 SQL 문제 정리.md",
-    "코딩테스트/코테 오답노트.md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
     "프로젝트",
@@ -202,9 +218,6 @@
     "Pasted image 20240212222612.png",
     "JPA/JPA 기초 강의",
     "JPA/Annotations",
-    "web",
-    "Spring/test",
-    "Spring/Spring Data",
     "img/Pasted image 20231110202908.png",
     "img/Pasted image 20231110202847.png",
     "img/Pasted image 20231109165922.png",
