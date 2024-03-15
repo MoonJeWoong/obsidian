@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-03-06.md",
+                "file": "TIL/2024/2024-03-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-03-06.md",
+                "file": "TIL/2024/2024-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-03-06.md",
+                "file": "TIL/2024/2024-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-03-06.md"
+                "file": "TIL/2024/2024-03-15.md"
               }
             }
           },
@@ -179,8 +179,14 @@
   },
   "active": "76f45e724ca6cd33",
   "lastOpenFiles": [
-    "TIL/2024/2024-03-05.md",
+    "프로젝트/하루스터디/프로젝트 명세.md",
+    "TIL/2024/2024-03-15.md",
+    "우테코/하루스터디 무중단 배포 플로우 정리(트리거).md",
     "TIL/2024/2024-03-06.md",
+    "TIL/2023/2023-10-20.md",
+    "우테코/스터디 동시 진행 기능 업데이트를 위한 무중단 배포 시나리오 정리.md",
+    "개발/하루스터디 서비스 마이그레이션.md",
+    "TIL/2024/2024-03-05.md",
     "Spring/인프런 강의/Spring Data JPA/페이지네이션.md",
     "Spring/인프런 강의/Spring Data JPA",
     "Spring/정리해야할 내용/Spring Properties 관련 정리.md",
@@ -198,17 +204,11 @@
     "Spring/인프런 강의/스프링 핵심원리 기본편/의존관계 자동 주입.md",
     "TIL/2024/2024-03-04.md",
     "TIL/2024/2024-03-03.md",
-    "프로젝트/하루스터디/프로젝트 명세.md",
     "Templates/당분간 계획 목표.md",
     "web/html semantic tags.md",
     "JPA/정리해야할 내용/컬렉션 + 페이징 최적화해서 적용하기.md",
     "TIL/2024/2024-02-29.md",
     "독서/기타서적",
-    "독서/기타서적/IT에 몸담은 이들을 위한 지적 생산 기술.md",
-    "CS/DB/동시성 제어 기초.md",
-    "CS/DB/Lock을 활용한 Concurrency Control 기법.md",
-    "CS/DB/트랜잭션 격리 수준.md",
-    "CS/DB/MVCC.md",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
     "프로젝트",
