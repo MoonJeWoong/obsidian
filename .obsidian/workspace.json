@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-03-16.md",
+                "file": "TIL/2024/2024-03-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-03-16.md",
+                "file": "TIL/2024/2024-03-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-03-16.md",
+                "file": "TIL/2024/2024-03-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-03-16.md"
+                "file": "TIL/2024/2024-03-17.md"
               }
             }
           },
@@ -177,13 +177,14 @@
   },
   "active": "6c8ee92d49526e5f",
   "lastOpenFiles": [
-    "TIL/2024/2024-03-15.md",
+    "프로젝트/하루스터디/프로젝트 명세.md",
+    "TIL/2024/2024-03-17.md",
     "TIL/2024/2024-03-16.md",
+    "TIL/2024/2024-03-15.md",
     "Spring/면접 질문/Spring vs Spring Boot.md",
     "JPA/정리해야할 내용/다양한 연관관계 매핑.md",
     "mysql/VARCHAR vs TEXT.md",
     "mysql",
-    "프로젝트/하루스터디/프로젝트 명세.md",
     "우테코/하루스터디 무중단 배포 플로우 정리(트리거).md",
     "TIL/2024/2024-03-06.md",
     "TIL/2023/2023-10-20.md",
@@ -206,7 +207,6 @@
     "Spring/인프런 강의/스프링 핵심원리 기본편/의존관계 자동 주입.md",
     "TIL/2024/2024-03-04.md",
     "TIL/2024/2024-03-03.md",
-    "Templates/당분간 계획 목표.md",
     "독서/기타서적",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
