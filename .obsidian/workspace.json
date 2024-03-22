@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024/2024-03-21.md",
+                "file": "JPA/정리해야할 내용/@MappedSuperClass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36daef134d0afbe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/2024/2024-03-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/2024-03-21.md",
+                "file": "TIL/2024/2024-03-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/2024-03-21.md",
+                "file": "TIL/2024/2024-03-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/2024-03-21.md"
+                "file": "TIL/2024/2024-03-22.md"
               }
             }
           },
@@ -175,10 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c8ee92d49526e5f",
+  "active": "36daef134d0afbe7",
   "lastOpenFiles": [
-    "JPA/정리해야할 내용/다양한 연관관계 매핑.md",
+    "TIL/2024/2024-03-22.md",
     "TIL/2024/2024-03-21.md",
+    "JPA/정리해야할 내용/다양한 연관관계 매핑.md",
     "TIL/2024/2024-03-19.md",
     "TIL/2024/2024-03-17.md",
     "프로젝트/하루스터디/프로젝트 명세.md",
@@ -206,7 +220,6 @@
     "Spring/인프런 강의/스프링 핵심원리 기본편/객체 지향 원리 적용.md",
     "Spring/인프런 강의/스프링 핵심원리 기본편/스프링 컨테이너와 스프링 빈.md",
     "Spring/인프런 강의/스프링 핵심원리 기본편/컴포넌트 스캔.md",
-    "Spring/인프런 강의/스프링 핵심원리 기본편/의존관계 자동 주입.md",
     "독서/기타서적",
     "프로젝트/디스코드 프로젝트",
     "프로젝트/하루스터디",
